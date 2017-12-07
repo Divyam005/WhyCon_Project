@@ -1,0 +1,8 @@
+prefix=/home/glitchinthematrix/whycon_catkin_ws/devel
+
+Name: whycon
+Description: Description of whycon
+Version: 1.2.0
+Cflags: -I/home/glitchinthematrix/whycon_catkin_ws/devel/include -I/home/glitchinthematrix/whycon_catkin_ws/src/whycon/include
+Libs: -L/home/glitchinthematrix/whycon_catkin_ws/devel/lib -lwhycon
+Requires: cv_bridge roscpp sensor_msgs std_msgs message_runtime geometry_msgs

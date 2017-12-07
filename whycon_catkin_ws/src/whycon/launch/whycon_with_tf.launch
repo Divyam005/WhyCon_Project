@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<launch>
+  <arg name="name" default="whycon"/>
+
+<!-- Specify the numbers of Whycon to be detected in the frame -->
+  <arg name="targets" default="1"/>
+
+<!-- usb_cam node -->
+  <node name="usb_cam" pkg="usb_cam" type="usb_cam_node" output="screen" >
+    <param name="video_device" value="/dev/video1" />
+    <param name="image_width" value="640" />
+    <param name="image_height" value="480" />
+    <param name="pixel_format" value="yuyv" />
+    <param name="camera_frame_id" value="usb_cam" />
+    <param name="io_method" value="mmap"/>
+  </node>
+
+<!-- Image_proc node -->
+  <group ns="usb_cam">
+    <node pkg="image_proc" type="image_proc" name="image_proc"/>
+  </group>
+
+<!-- Whycon node -->
+  <node name="whycon" type="whycon" pkg="whycon" output="screen">
+    <param name="targets" value="$(arg targets)"/>
+    <param name="name" value="$(arg name)"/>
+  </node>
+ 
+<!-- Whycon transform -->
+  <node name="whycon_mapping" pkg="whycon" type="whycon_mapping" respawn="true" output="screen">
+	<param name="num_of_whycons" value="$(arg targets)"/>
+  </node>
+
+<!-- Image_view node -->
+  <node name="image_view" pkg="image_view" type="image_view" respawn="false" output="screen">
+    <remap from="image" to="/whycon/image_out"/>
+    <param name="autosize" value="true" />
+  </node>
+
+<!-- RVIZ -->
+<node name="rviz" pkg="rviz" type="rviz" args="-d $(find whycon)/rviz/whycon_config.rviz" />
+
+</launch>
+  
