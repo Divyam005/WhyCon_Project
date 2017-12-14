@@ -1,0 +1,1947 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_lrint.o)
+                              /tmp/cc6Tpv7I.ltrans0.ltrans.o (lrintf)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_acos.o)
+                              /tmp/cc6Tpv7I.ltrans0.ltrans.o (acosf)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_atan2.o)
+                              /tmp/cc6Tpv7I.ltrans9.ltrans.o (atan2f)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_log.o)
+                              /tmp/cc6Tpv7I.ltrans10.ltrans.o (logf)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_sqrt.o)
+                              /tmp/cc6Tpv7I.ltrans0.ltrans.o (sqrtf)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_acos.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_acos.o) (__ieee754_acosf)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_atan2.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_atan2.o) (__ieee754_atan2f)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_log.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_log.o) (__ieee754_logf)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_sqrt.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_sqrt.o) (__ieee754_sqrtf)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_lib_ver.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_acos.o) (__fdlib_version)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_matherr.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_acos.o) (matherr)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_nan.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_acos.o) (nan)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_atan.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_atan2.o) (atanf)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_fabs.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_acos.o) (fabsf)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-errno.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_acos.o) (__errno)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-errno.o) (_impure_ptr)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcpy.o)
+                              /tmp/cc6Tpv7I.ltrans5.ltrans.o (memcpy)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+                              /tmp/cc6Tpv7I.ltrans1.ltrans.o (memset)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strchr.o)
+                              /tmp/cc6Tpv7I.ltrans5.ltrans.o (strchr)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+                              /tmp/cc6Tpv7I.ltrans4.ltrans.o (strlen)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_ashrdi3.o)
+                              /tmp/cc6Tpv7I.ltrans11.ltrans.o (__aeabi_lasr)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+                              /tmp/cc6Tpv7I.ltrans4.ltrans.o (__aeabi_dsub)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
+                              /tmp/cc6Tpv7I.ltrans4.ltrans.o (__aeabi_dmul)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_cmpdf2.o)
+                              /tmp/cc6Tpv7I.ltrans4.ltrans.o (__aeabi_dcmplt)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_unorddf2.o)
+                              /tmp/cc6Tpv7I.ltrans4.ltrans.o (__aeabi_dcmpun)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixunsdfsi.o)
+                              /tmp/cc6Tpv7I.ltrans4.ltrans.o (__aeabi_d2uiz)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_truncdfsf2.o)
+                              /tmp/cc6Tpv7I.ltrans10.ltrans.o (__aeabi_d2f)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+                              /tmp/cc6Tpv7I.ltrans0.ltrans.o (__aeabi_fsub)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_muldivsf3.o)
+                              /tmp/cc6Tpv7I.ltrans0.ltrans.o (__aeabi_fmul)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_cmpsf2.o)
+                              /tmp/cc6Tpv7I.ltrans9.ltrans.o (__aeabi_fcmpeq)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_unordsf2.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_acos.o) (__aeabi_fcmpun)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixsfsi.o)
+                              /tmp/cc6Tpv7I.ltrans0.ltrans.o (__aeabi_f2iz)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixunssfsi.o)
+                              /tmp/cc6Tpv7I.ltrans0.ltrans.o (__aeabi_f2uiz)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_aeabi_ldivmod.o)
+                              /tmp/cc6Tpv7I.ltrans0.ltrans.o (__aeabi_ldivmod)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_fixsfdi.o)
+                              /tmp/cc6Tpv7I.ltrans11.ltrans.o (__aeabi_f2lz)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_fixunssfdi.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_fixsfdi.o) (__aeabi_f2ulz)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_udivmoddi4.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_aeabi_ldivmod.o) (__udivmoddi4)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                              /tmp/cc6Tpv7I.ltrans0.ltrans.o (__aeabi_unwind_cpp_pr0)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(unwind-arm.o) (restore_core_regs)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(unwind-arm.o) (__gnu_unwind_execute)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_dvmd_tls.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-abort.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(unwind-arm.o) (abort)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signal.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-abort.o) (raise)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signalr.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signal.o) (_kill_r)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mallocr.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signal.o) (_malloc_r)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mlock.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mallocr.o) (__malloc_lock)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-reent.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signalr.o) (errno)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-sbrkr.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mallocr.o) (_sbrk_r)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-freer.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mallocr.o) (_free_r)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mlock.o) (__retarget_lock_acquire_recursive)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(getpid.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signalr.o) (_getpid)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(kill.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signalr.o) (_kill)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-sbrkr.o) (_sbrk)
+/home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+                              /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-abort.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+errno               0x4               /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-reent.o)
+rcRaw               0x24              obj/main/CJMCU/rx/rx.o (symbol from plugin)
+__lock___env_recursive_mutex
+                    0x1               /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+cachedRccCsrValue   0x4               obj/main/CJMCU/drivers/system.o (symbol from plugin)
+RangingMeasurementData
+                    0x1c              obj/main/CJMCU/drivers/ranging_vl53l0x.o (symbol from plugin)
+__lock___sfp_recursive_mutex
+                    0x1               /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x0000000000000000       0x14 obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+ .data          0x0000000000000000        0x0 obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+ .bss           0x0000000000000000        0x0 obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/vl53l0x_api_core.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans0.ltrans.o
+ .ARM.extab.text.startup
+                0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans0.ltrans.o
+ .ARM.extab     0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans1.ltrans.o
+ .ARM.extab     0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans3.ltrans.o
+ .ARM.extab     0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans4.ltrans.o
+ .rodata        0x0000000000000000        0x2 /tmp/cc6Tpv7I.ltrans4.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans5.ltrans.o
+ .ARM.extab     0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans5.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans6.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans6.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans7.ltrans.o
+ .ARM.extab     0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans7.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans8.ltrans.o
+ .ARM.extab     0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans8.ltrans.o
+ .ARM.extab     0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans9.ltrans.o
+ .ARM.extab     0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans10.ltrans.o
+ .ARM.extab     0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans11.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans12.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans12.ltrans.o
+ .ARM.extab     0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans12.ltrans.o
+ .ARM.extab     0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans13.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans14.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans15.ltrans.o
+ .ARM.extab     0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans15.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans16.ltrans.o
+ .ARM.extab     0x0000000000000000        0x0 /tmp/cc6Tpv7I.ltrans16.ltrans.o
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/vl53l0x_api_ranging.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/vl53l0x_api_calibration.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/vl53l0x_api_strings.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/vl53l0x_api.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/vl53l0x_platform.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/vl53l0x_i2c_platform.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/vl53l0x_platform_log.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/adc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/adc_stm32f10x.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/accgyro_mpu.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/accgyro_mpu6500.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/bus_i2c_stm32f10x.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/bus_spi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/compass_ak8963.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/gpio_stm32f10x.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/light_led_stm32f10x.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/flash_m25p16.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/pwm_mapping.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/pwm_output.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/pwm_rx.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/serial_uart.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/serial_uart_stm32f10x.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/sound_beeper_stm32f10x.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/system_stm32f10x.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/timer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/timer_stm32f10x.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/hardware_revision.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/barometer_ms5611.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/sensors/barometer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/build_config.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/debug.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/version.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/config/config.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/config/runtime_config.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/common/maths.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/common/printf.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/common/typeconversion.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/common/encoding.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/mw.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/flight/altitudehold.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/flight/failsafe.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/flight/pid.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/flight/imu.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/flight/mixer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/flight/lowpass.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/flight/filter.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/bus_i2c_soft.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/serial.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/sound_beeper.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/system.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/io/beeper.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/io/rc_controls.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/io/rc_curves.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/io/serial.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/io/serial_1wire.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/io/serial_cli.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/io/serial_msp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/io/statusindicator.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/io/flashfs.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/rx/rx.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/rx/pwm.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/rx/msp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/rx/sbus.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/rx/sumd.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/rx/sumh.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/rx/spektrum.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/rx/xbus.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/sensors/acceleration.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/sensors/battery.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/sensors/boardalignment.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/sensors/compass.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/sensors/gyro.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/sensors/initialisation.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/core_cm3.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/system_stm32f10x.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/stm32f10x_dma.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/stm32f10x_dbgmcu.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/stm32f10x_dac.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/stm32f10x_rtc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/stm32f10x_pwr.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/stm32f10x_i2c.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/stm32f10x_sdio.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/stm32f10x_rcc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/stm32f10x_flash.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/stm32f10x_usart.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/stm32f10x_tim.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/stm32f10x_wwdg.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/misc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/stm32f10x_iwdg.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/stm32f10x_adc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/stm32f10x_spi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/stm32f10x_bkp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/stm32f10x_exti.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/stm32f10x_fsmc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/stm32f10x_gpio.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/flight/acrobats.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/debug/print.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/drivers/ranging_vl53l0x.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/flight/posControl.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/flight/posEstimate.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 obj/main/CJMCU/command/command.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_lrint.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_lrint.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_lrint.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_acos.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_acos.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_acos.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_atan2.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_atan2.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_atan2.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_log.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_log.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_log.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_sqrt.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_sqrt.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_sqrt.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_acos.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_acos.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_acos.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_atan2.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_atan2.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_atan2.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_log.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_log.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_log.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_sqrt.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_sqrt.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_sqrt.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_lib_ver.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_lib_ver.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_lib_ver.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_matherr.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_matherr.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_matherr.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_nan.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_nan.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_nan.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_atan.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_atan.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_atan.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_fabs.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_fabs.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_fabs.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcpy.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strchr.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strchr.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strchr.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_ashrdi3.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_ashrdi3.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_cmpdf2.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_unorddf2.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_unorddf2.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_truncdfsf2.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_muldivsf3.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_muldivsf3.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_cmpsf2.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_cmpsf2.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_unordsf2.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_unordsf2.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixsfsi.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixsfsi.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixunssfsi.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_fixsfdi.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_fixsfdi.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_fixunssfdi.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_fixunssfdi.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_udivmoddi4.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_udivmoddi4.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab     0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .debug_frame   0x0000000000000000      0x300 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+ .ARM.attributes
+                0x0000000000000000       0x1d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .debug_frame   0x0000000000000000      0x104 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-abort.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-abort.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-abort.o)
+ .debug_frame   0x0000000000000000       0x28 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-abort.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-abort.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signal.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signal.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signal.o)
+ .text._init_signal_r.part.0
+                0x0000000000000000       0x28 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signal.o)
+ .text._init_signal_r
+                0x0000000000000000       0x10 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signal.o)
+ .text._signal_r
+                0x0000000000000000       0x44 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signal.o)
+ .text.__sigtramp_r
+                0x0000000000000000       0x5c /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signal.o)
+ .text.signal   0x0000000000000000       0x10 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signal.o)
+ .text._init_signal
+                0x0000000000000000       0x18 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signal.o)
+ .text.__sigtramp
+                0x0000000000000000       0x10 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signal.o)
+ .debug_frame   0x0000000000000000      0x10c /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signal.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signal.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signalr.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signalr.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signalr.o)
+ .debug_frame   0x0000000000000000       0x3c /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signalr.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signalr.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mallocr.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mallocr.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mallocr.o)
+ .text._malloc_r
+                0x0000000000000000      0x544 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mallocr.o)
+ .bss.__malloc_current_mallinfo
+                0x0000000000000000       0x28 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mallocr.o)
+ .bss.__malloc_max_sbrked_mem
+                0x0000000000000000        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x0000000000000000        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mallocr.o)
+ .bss.__malloc_top_pad
+                0x0000000000000000        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mallocr.o)
+ .data.__malloc_av_
+                0x0000000000000000      0x408 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mallocr.o)
+ .data.__malloc_sbrk_base
+                0x0000000000000000        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mallocr.o)
+ .data.__malloc_trim_threshold
+                0x0000000000000000        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mallocr.o)
+ .debug_frame   0x0000000000000000       0x54 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mallocr.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x0000000000000000        0xc /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mlock.o)
+ .text.__malloc_unlock
+                0x0000000000000000        0xc /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000000       0x30 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x1c /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0x88 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-reent.o)
+ .debug_frame   0x0000000000000000       0x58 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x0000000000000000       0x24 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000000       0x2c /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-freer.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-freer.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-freer.o)
+ .text._malloc_trim_r
+                0x0000000000000000       0xa0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-freer.o)
+ .text._free_r  0x0000000000000000      0x1cc /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-freer.o)
+ .debug_frame   0x0000000000000000       0x74 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-freer.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-freer.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x0000000000000000        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x0000000000000000        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x0000000000000000        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+ .debug_frame   0x0000000000000000       0xb0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+ COMMON         0x0000000000000000       0x21 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(getpid.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(getpid.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(getpid.o)
+ .stab          0x0000000000000000       0x24 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(getpid.o)
+ .debug_frame   0x0000000000000000       0x20 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(getpid.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(getpid.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(kill.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(kill.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(kill.o)
+ .stab          0x0000000000000000       0x18 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(kill.o)
+                                         0x24 (size before relaxing)
+ .debug_frame   0x0000000000000000       0x20 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(kill.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(kill.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+ .text._sbrk    0x0000000000000000       0x1c /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+ .bss.heap_end.4116
+                0x0000000000000000        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+ .debug_frame   0x0000000000000000       0x20 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+ .text          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+ .debug_frame   0x0000000000000000       0x20 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000008000000 0x000000000001f800 xr
+RAM              0x0000000020000000 0x0000000000005000 xrw
+MEMORY_B1        0x0000000060000000 0x0000000000000000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+LOAD obj/main/CJMCU/vl53l0x_api_core.o
+LOAD /tmp/cc6Tpv7I.ltrans0.ltrans.o
+LOAD /tmp/cc6Tpv7I.ltrans1.ltrans.o
+LOAD /tmp/cc6Tpv7I.ltrans2.ltrans.o
+LOAD /tmp/cc6Tpv7I.ltrans3.ltrans.o
+LOAD /tmp/cc6Tpv7I.ltrans4.ltrans.o
+LOAD /tmp/cc6Tpv7I.ltrans5.ltrans.o
+LOAD /tmp/cc6Tpv7I.ltrans6.ltrans.o
+LOAD /tmp/cc6Tpv7I.ltrans7.ltrans.o
+LOAD /tmp/cc6Tpv7I.ltrans8.ltrans.o
+LOAD /tmp/cc6Tpv7I.ltrans9.ltrans.o
+LOAD /tmp/cc6Tpv7I.ltrans10.ltrans.o
+LOAD /tmp/cc6Tpv7I.ltrans11.ltrans.o
+LOAD /tmp/cc6Tpv7I.ltrans12.ltrans.o
+LOAD /tmp/cc6Tpv7I.ltrans13.ltrans.o
+LOAD /tmp/cc6Tpv7I.ltrans14.ltrans.o
+LOAD /tmp/cc6Tpv7I.ltrans15.ltrans.o
+LOAD /tmp/cc6Tpv7I.ltrans16.ltrans.o
+LOAD obj/main/CJMCU/vl53l0x_api_ranging.o
+LOAD obj/main/CJMCU/vl53l0x_api_calibration.o
+LOAD obj/main/CJMCU/vl53l0x_api_strings.o
+LOAD obj/main/CJMCU/vl53l0x_api.o
+LOAD obj/main/CJMCU/vl53l0x_platform.o
+LOAD obj/main/CJMCU/vl53l0x_i2c_platform.o
+LOAD obj/main/CJMCU/vl53l0x_platform_log.o
+LOAD obj/main/CJMCU/drivers/adc.o
+LOAD obj/main/CJMCU/drivers/adc_stm32f10x.o
+LOAD obj/main/CJMCU/drivers/accgyro_mpu.o
+LOAD obj/main/CJMCU/drivers/accgyro_mpu6500.o
+LOAD obj/main/CJMCU/drivers/bus_i2c_stm32f10x.o
+LOAD obj/main/CJMCU/drivers/bus_spi.o
+LOAD obj/main/CJMCU/drivers/compass_ak8963.o
+LOAD obj/main/CJMCU/drivers/gpio_stm32f10x.o
+LOAD obj/main/CJMCU/drivers/light_led_stm32f10x.o
+LOAD obj/main/CJMCU/drivers/flash_m25p16.o
+LOAD obj/main/CJMCU/drivers/pwm_mapping.o
+LOAD obj/main/CJMCU/drivers/pwm_output.o
+LOAD obj/main/CJMCU/drivers/pwm_rx.o
+LOAD obj/main/CJMCU/drivers/serial_uart.o
+LOAD obj/main/CJMCU/drivers/serial_uart_stm32f10x.o
+LOAD obj/main/CJMCU/drivers/sound_beeper_stm32f10x.o
+LOAD obj/main/CJMCU/drivers/system_stm32f10x.o
+LOAD obj/main/CJMCU/drivers/timer.o
+LOAD obj/main/CJMCU/drivers/timer_stm32f10x.o
+LOAD obj/main/CJMCU/hardware_revision.o
+LOAD obj/main/CJMCU/drivers/barometer_ms5611.o
+LOAD obj/main/CJMCU/sensors/barometer.o
+LOAD obj/main/CJMCU/build_config.o
+LOAD obj/main/CJMCU/debug.o
+LOAD obj/main/CJMCU/version.o
+LOAD obj/main/CJMCU/config/config.o
+LOAD obj/main/CJMCU/config/runtime_config.o
+LOAD obj/main/CJMCU/common/maths.o
+LOAD obj/main/CJMCU/common/printf.o
+LOAD obj/main/CJMCU/common/typeconversion.o
+LOAD obj/main/CJMCU/common/encoding.o
+LOAD obj/main/CJMCU/main.o
+LOAD obj/main/CJMCU/mw.o
+LOAD obj/main/CJMCU/flight/altitudehold.o
+LOAD obj/main/CJMCU/flight/failsafe.o
+LOAD obj/main/CJMCU/flight/pid.o
+LOAD obj/main/CJMCU/flight/imu.o
+LOAD obj/main/CJMCU/flight/mixer.o
+LOAD obj/main/CJMCU/flight/lowpass.o
+LOAD obj/main/CJMCU/flight/filter.o
+LOAD obj/main/CJMCU/drivers/bus_i2c_soft.o
+LOAD obj/main/CJMCU/drivers/serial.o
+LOAD obj/main/CJMCU/drivers/sound_beeper.o
+LOAD obj/main/CJMCU/drivers/system.o
+LOAD obj/main/CJMCU/io/beeper.o
+LOAD obj/main/CJMCU/io/rc_controls.o
+LOAD obj/main/CJMCU/io/rc_curves.o
+LOAD obj/main/CJMCU/io/serial.o
+LOAD obj/main/CJMCU/io/serial_1wire.o
+LOAD obj/main/CJMCU/io/serial_cli.o
+LOAD obj/main/CJMCU/io/serial_msp.o
+LOAD obj/main/CJMCU/io/statusindicator.o
+LOAD obj/main/CJMCU/io/flashfs.o
+LOAD obj/main/CJMCU/rx/rx.o
+LOAD obj/main/CJMCU/rx/pwm.o
+LOAD obj/main/CJMCU/rx/msp.o
+LOAD obj/main/CJMCU/rx/sbus.o
+LOAD obj/main/CJMCU/rx/sumd.o
+LOAD obj/main/CJMCU/rx/sumh.o
+LOAD obj/main/CJMCU/rx/spektrum.o
+LOAD obj/main/CJMCU/rx/xbus.o
+LOAD obj/main/CJMCU/sensors/acceleration.o
+LOAD obj/main/CJMCU/sensors/battery.o
+LOAD obj/main/CJMCU/sensors/boardalignment.o
+LOAD obj/main/CJMCU/sensors/compass.o
+LOAD obj/main/CJMCU/sensors/gyro.o
+LOAD obj/main/CJMCU/sensors/initialisation.o
+LOAD obj/main/CJMCU/core_cm3.o
+LOAD obj/main/CJMCU/system_stm32f10x.o
+LOAD obj/main/CJMCU/stm32f10x_dma.o
+LOAD obj/main/CJMCU/stm32f10x_dbgmcu.o
+LOAD obj/main/CJMCU/stm32f10x_dac.o
+LOAD obj/main/CJMCU/stm32f10x_rtc.o
+LOAD obj/main/CJMCU/stm32f10x_pwr.o
+LOAD obj/main/CJMCU/stm32f10x_i2c.o
+LOAD obj/main/CJMCU/stm32f10x_sdio.o
+LOAD obj/main/CJMCU/stm32f10x_rcc.o
+LOAD obj/main/CJMCU/stm32f10x_flash.o
+LOAD obj/main/CJMCU/stm32f10x_usart.o
+LOAD obj/main/CJMCU/stm32f10x_tim.o
+LOAD obj/main/CJMCU/stm32f10x_wwdg.o
+LOAD obj/main/CJMCU/misc.o
+LOAD obj/main/CJMCU/stm32f10x_iwdg.o
+LOAD obj/main/CJMCU/stm32f10x_adc.o
+LOAD obj/main/CJMCU/stm32f10x_spi.o
+LOAD obj/main/CJMCU/stm32f10x_bkp.o
+LOAD obj/main/CJMCU/stm32f10x_exti.o
+LOAD obj/main/CJMCU/stm32f10x_fsmc.o
+LOAD obj/main/CJMCU/stm32f10x_gpio.o
+LOAD obj/main/CJMCU/flight/acrobats.o
+LOAD obj/main/CJMCU/debug/print.o
+LOAD obj/main/CJMCU/drivers/ranging_vl53l0x.o
+LOAD obj/main/CJMCU/flight/posControl.o
+LOAD obj/main/CJMCU/flight/posEstimate.o
+LOAD obj/main/CJMCU/command/command.o
+LOAD /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a
+LOAD /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libstdc++.a
+LOAD /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a
+LOAD /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a
+START GROUP
+LOAD /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a
+LOAD /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a
+LOAD /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a
+END GROUP
+START GROUP
+LOAD /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a
+LOAD /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a
+LOAD /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a
+END GROUP
+                0x0000000020005000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x0000000000000000                _Min_Heap_Size = 0x0
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x10c
+                0x0000000008000000                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (isr_vector_table_base, .)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x10c obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+                0x0000000008000000                g_pfnVectors
+                0x000000000800010c                . = ALIGN (0x4)
+
+.text           0x0000000008000110    0x10d68
+                0x0000000008000110                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000008000110     0x14f4 /tmp/cc6Tpv7I.ltrans1.ltrans.o
+                0x0000000008000110                init()
+ .text          0x0000000008001604      0x86c /tmp/cc6Tpv7I.ltrans2.ltrans.o
+                0x0000000008001604                ranging_init
+ .text          0x0000000008001e70      0xe18 /tmp/cc6Tpv7I.ltrans3.ltrans.o
+                0x0000000008001e70                pwmOverflowCallback(timerOvrHandlerRec_s*, unsigned short) [clone .lto_priv.315]
+                0x0000000008001e98                ppmEdgeCallback(timerCCHandlerRec_s*, unsigned short) [clone .lto_priv.316]
+                0x0000000008001f70                ppmOverflowCallback(timerOvrHandlerRec_s*, unsigned short) [clone .lto_priv.317]
+                0x0000000008001f80                pwmWriteStandard(unsigned char, unsigned short) [clone .lto_priv.312]
+                0x0000000008001f90                pwmWriteBrushed(unsigned char, unsigned short) [clone .lto_priv.313]
+                0x00000000080021e0                mpuGyroRead
+                0x0000000008002224                mpuAccRead
+                0x0000000008002268                pwmEdgeCallback(timerCCHandlerRec_s*, unsigned short) [clone .lto_priv.314]
+                0x00000000080022c4                gpioInit
+                0x000000000800233a                pwmOutConfig(timerHardware_t const*, unsigned char, unsigned short, unsigned short) [clone .lto_priv.324]
+                0x000000000800262c                mpu6500GyroInit
+                0x00000000080026d4                mpu6500AccInit
+                0x00000000080026e8                i2cInit
+                0x000000000800298c                i2cRead
+                0x0000000008002a00                mpuReadRegisterI2C(unsigned char, unsigned char, unsigned char*) [clone .lto_priv.305]
+                0x0000000008002a0a                i2cWriteBuffer
+                0x0000000008002a80                i2cWrite
+                0x0000000008002a94                ak8963Read
+                0x0000000008002b38                ak8963Init
+                0x0000000008002c2c                mpuWriteRegisterI2C(unsigned char, unsigned char) [clone .lto_priv.306]
+                0x0000000008002c34                I2C2_EV_IRQHandler
+                0x0000000008002c38                I2C1_EV_IRQHandler
+                0x0000000008002c3c                I2C2_ER_IRQHandler
+                0x0000000008002c3e                I2C1_ER_IRQHandler
+                0x0000000008002c40                VL53L0X_encode_timeout
+                0x0000000008002c5e                VL53L0X_isqrt
+ .text          0x0000000008002c88      0xb50 /tmp/cc6Tpv7I.ltrans4.ltrans.o
+                0x0000000008002ce8                VL53L0X_StartMeasurement.constprop.131
+                0x0000000008002e10                VL53L0X_perform_ref_calibration.constprop.125
+                0x0000000008002ea4                VL53L0X_perform_ref_spad_management.constprop.124
+                0x000000000800310c                VL53L0X_GetDeviceParameters.constprop.114
+                0x00000000080032ac                timerConfigure.constprop.80
+                0x0000000008003304                resetSerialConfig(serialConfig_s*) [clone .constprop.64]
+                0x0000000008003354                useRcControlsConfig.constprop.56
+                0x0000000008003394                spektrumInit.constprop.38
+                0x0000000008003418                debugPrint(char const*, double, unsigned char) [clone .constprop.19]
+                0x00000000080036b8                headSerialError(unsigned char) [clone .constprop.14]
+                0x00000000080036c0                updateCompass.part.0.constprop.3
+ .text          0x00000000080037d8      0xfb0 /tmp/cc6Tpv7I.ltrans5.ltrans.o
+                0x00000000080037d8                ms5611_calculate(long*, long*, unsigned long, unsigned long) [clone .lto_priv.304]
+                0x0000000008003974                _putc(void*, char) [clone .lto_priv.323]
+                0x000000000800397a                applyDeadband
+                0x0000000008003998                sin_approx
+                0x0000000008003a84                cos_approx
+                0x0000000008003a98                buildRotationMatrix
+                0x0000000008003b7c                rotateV
+                0x0000000008003c22                disableFlightMode
+                0x0000000008003c40                enableFlightMode
+                0x0000000008003c5c                featureClear
+                0x0000000008003c6c                featureSet
+                0x0000000008003c7c                activateControlRateConfig()
+                0x0000000008003cc8                isEEPROMContentValid() [clone .lto_priv.325]
+                0x0000000008003d14                writeEEPROM
+                0x0000000008003e5c                readEEPROM
+                0x0000000008004124                saveConfigAndNotify
+                0x0000000008004138                resetConf() [clone .lto_priv.203]
+                0x0000000008004600                apm1BaroRead
+                0x0000000008004654                apmBaroRead
+                0x00000000080046c8                apmBaroUpdate
+ .text          0x0000000008004788      0xa08 /tmp/cc6Tpv7I.ltrans6.ltrans.o
+                0x0000000008004788                VL53L0X_ref_calibration_io.constprop.163
+                0x0000000008004814                VL53L0X_ClearInterruptMask.constprop.161
+                0x0000000008004864                VL53L0X_perform_single_ref_calibration.constprop.160
+                0x0000000008004890                VL53L0X_set_measurement_timing_budget_micro_seconds.constprop.158
+                0x0000000008004950                VL53L0X_load_tuning_settings.constprop.153
+                0x0000000008004a08                VL53L0X_GetLimitCheckValue.constprop.146
+                0x0000000008004a7c                get_next_good_spad.constprop.143
+                0x0000000008004aca                set_ref_spad_map.constprop.141
+                0x0000000008004aec                enable_ref_spads.constprop.137
+                0x0000000008004bac                VL53L0X_GetRangingMeasurementData.constprop.135
+ .text          0x0000000008005190      0xb30 /tmp/cc6Tpv7I.ltrans7.ltrans.o
+                0x0000000008005190                read8() [clone .lto_priv.201]
+                0x00000000080051a4                read16() [clone .lto_priv.202]
+                0x00000000080051b8                serialize8(unsigned char) [clone .lto_priv.271]
+                0x00000000080051dc                headSerialResponse(unsigned char, unsigned char) [clone .lto_priv.193]
+                0x0000000008005218                headSerialReply(unsigned char) [clone .lto_priv.200]
+                0x0000000008005242                processOutCommand(unsigned char) [clone .lto_priv.270]
+                0x0000000008005cb2                serialize8Debug
+ .text          0x0000000008005cc0     0x1000 /tmp/cc6Tpv7I.ltrans8.ltrans.o
+                0x0000000008005cc0                pidRewrite(pidProfile_s*, controlRateConfig_s*, unsigned short, rollAndPitchTrims_t*, rxConfig_s*) [clone .lto_priv.211]
+                0x0000000008005f0c                pidMultiWiiHybrid(pidProfile_s*, controlRateConfig_s*, unsigned short, rollAndPitchTrims_t*, rxConfig_s*) [clone .lto_priv.214]
+                0x000000000800621c                pidMultiWii23(pidProfile_s*, controlRateConfig_s*, unsigned short, rollAndPitchTrims_t*, rxConfig_s*) [clone .lto_priv.213]
+                0x00000000080064cc                pidMultiWii(pidProfile_s*, controlRateConfig_s*, unsigned short, rollAndPitchTrims_t*, rxConfig_s*) [clone .lto_priv.210]
+                0x0000000008006740                pidHarakiri(pidProfile_s*, controlRateConfig_s*, unsigned short, rollAndPitchTrims_t*, rxConfig_s*) [clone .lto_priv.215]
+ .text          0x0000000008006cc0      0xc38 /tmp/cc6Tpv7I.ltrans9.ltrans.o
+                0x0000000008006da4                openSerialPort
+                0x0000000008007028                findNextSerialPortConfig
+                0x000000000800706c                findSerialPortConfig
+                0x000000000800707c                generateThrottleCurve
+                0x00000000080070f8                generatePitchRollCurve
+                0x0000000008007130                isRangeActive.part.0
+                0x0000000008007174                calculateThrottleStatus
+                0x00000000080071b0                beeperSilence
+                0x00000000080071cc                beeper
+                0x0000000008007224                beeperConfirmationBeeps
+                0x000000000800725c                micros
+                0x0000000008007294                delayMicroseconds
+                0x00000000080072aa                delay
+                0x00000000080072be                failureMode
+                0x0000000008007370                SysTick_Handler
+                0x0000000008007380                EXTI3_IRQHandler
+                0x0000000008007384                EXTI15_10_IRQHandler
+                0x0000000008007388                serialWrite
+                0x000000000800738e                filterApplyPt1
+                0x00000000080073fc                writeMotors
+                0x00000000080074a4                imuCalculateEstimatedAttitude() [clone .lto_priv.272]
+                0x00000000080078b0                pidSetController
+ .text          0x00000000080078f8      0xc28 /tmp/cc6Tpv7I.ltrans10.ltrans.o
+                0x00000000080078f8                pidLuxFloat(pidProfile_s*, controlRateConfig_s*, unsigned short, rollAndPitchTrims_t*, rxConfig_s*) [clone .lto_priv.212]
+                0x0000000008007c4c                pidResetErrorAngle
+                0x0000000008007c68                failsafeActivate() [clone .lto_priv.198]
+                0x0000000008007ca4                failsafeUpdateState.part.0
+                0x0000000008007e74                updateGains
+                0x0000000008007ed0                apmCalculateEstimatedAltitude
+ .text          0x0000000008008520      0xcac /tmp/cc6Tpv7I.ltrans11.ltrans.o
+                0x0000000008008584                xBusReadRawRC(rxRuntimeConfig_s*, unsigned char) [clone .lto_priv.288]
+                0x000000000800863c                spektrumReadRawRC.lto_priv.190
+                0x0000000008008668                sumhReadRawRC.lto_priv.281
+                0x0000000008008680                sumdReadRawRC.lto_priv.279
+                0x0000000008008694                sbusReadRawRC.lto_priv.277
+                0x00000000080086c4                rxMspReadRawRC.lto_priv.290
+                0x00000000080086d4                ppmReadRawRC.lto_priv.292
+                0x00000000080086e4                pwmReadRawRC.lto_priv.291
+                0x00000000080086f4                nullReadRawRC.lto_priv.192
+                0x00000000080088fc                xBusDataReceive(unsigned short) [clone .lto_priv.289]
+                0x00000000080089cc                spektrumDataReceive.lto_priv.191
+                0x0000000008008a14                sumhDataReceive.lto_priv.282
+                0x0000000008008a5c                sumdDataReceive.lto_priv.280
+                0x0000000008008b00                sbusDataReceive.lto_priv.278
+                0x0000000008008b4c                serializeString(char const*)
+                0x0000000008008b7c                FLASH_WaitForLastOperation
+                0x0000000008008b9e                RCC_GetClocksFreq
+                0x0000000008008c30                DMA_Init
+                0x0000000008008c6c                DMA_DeInit
+                0x0000000008008d60                SystemInit
+                0x0000000008008dac                alignSensors
+                0x0000000008008f28                updateBattery
+                0x0000000008009024                performInflightAccelerationCalibration(rollAndPitchTrims_t*)
+                0x0000000008009124                getRxfailValue.lto_priv.273
+                0x0000000008009174                resumeRxSignal
+                0x00000000080091a0                suspendRxSignal
+ .text          0x00000000080091cc      0x664 /tmp/cc6Tpv7I.ltrans12.ltrans.o
+                0x00000000080091cc                uartRead
+                0x00000000080091fc                isUartTransmitBufferEmpty
+                0x0000000008009212                uartTotalTxBytesFree
+                0x000000000800923a                uartTotalRxBytesWaiting
+                0x000000000800929e                uartWrite
+                0x00000000080092ca                ms5611_start_up() [clone .lto_priv.302]
+                0x00000000080092d4                ms5611_start_ut() [clone .lto_priv.300]
+                0x0000000008009306                ms5611_get_up() [clone .lto_priv.303]
+                0x0000000008009308                ms5611_get_ut() [clone .lto_priv.301]
+                0x000000000800930a                configTimeBase
+                0x00000000080093b0                lookupTimerIndex(TIM_TypeDef const*) [clone .lto_priv.217]
+                0x00000000080093e8                timerChConfigCallbacks
+                0x0000000008009490                USART1_IRQHandler
+                0x00000000080094fc                DMA1_Channel4_IRQHandler
+                0x0000000008009530                uartReconfigure.lto_priv.216
+                0x000000000800962c                uartSetMode
+                0x0000000008009630                uartSetBaudRate
+                0x0000000008009634                pwmICConfig(TIM_TypeDef*, unsigned char, unsigned short)
+ .text          0x0000000008009830      0x7e4 /tmp/cc6Tpv7I.ltrans13.ltrans.o
+                0x0000000008009830                processRcAdjustments.constprop.1
+                0x0000000008009dc4                command_previous()
+                0x0000000008009ddc                command_jump(unsigned char)
+                0x0000000008009df4                command_next()
+                0x0000000008009e14                command_def(command*)
+                0x0000000008009e34                PositionController
+ .text          0x000000000800a014      0x4f8 /tmp/cc6Tpv7I.ltrans14.ltrans.o
+                0x000000000800a014                NVIC_Init.part.0.constprop.187
+                0x000000000800a050                VL53L0X_RdByte.constprop.182
+                0x000000000800a074                VL53L0X_GetMeasurementDataReady.constprop.179
+                0x000000000800a0c8                VL53L0X_measurement_poll_for_completion.constprop.178
+                0x000000000800a0fa                VL53L0X_WrByte.constprop.177
+                0x000000000800a11c                VL53L0X_device_read_strobe.constprop.176
+                0x000000000800a15a                VL53L0X_RdDWord.constprop.175
+                0x000000000800a188                VL53L0X_calc_timeout_mclks.constprop.173
+                0x000000000800a1b0                VL53L0X_RdWord.constprop.171
+                0x000000000800a1e4                VL53L0X_get_vcsel_pulse_period.constprop.170
+                0x000000000800a216                VL53L0X_GetSequenceStepEnables.constprop.168
+                0x000000000800a24e                get_sequence_step_timeout.constprop.167
+                0x000000000800a390                VL53L0X_WrWord.constprop.166
+                0x000000000800a3c0                set_sequence_step_timeout.constprop.165
+                0x000000000800a4c8                VL53L0X_UpdateByte.constprop.164
+ .text          0x000000000800a50c      0x6e0 /tmp/cc6Tpv7I.ltrans15.ltrans.o
+                0x000000000800a50c                processInCommand() [clone .lto_priv.269]
+ .text          0x000000000800abec      0x28c /tmp/cc6Tpv7I.ltrans16.ltrans.o
+                0x000000000800abec                applyMultirotorAltHold() [clone .lto_priv.268]
+                0x000000000800ad64                handleInflightCalibrationStickPosition
+                0x000000000800ad98                mwArm
+                0x000000000800ae18                mwDisarm
+                0x000000000800ae34                isCalibrating()
+ .text          0x000000000800ae78       0xec /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcpy.o)
+                0x000000000800ae78                memcpy
+ .text          0x000000000800af64       0x1c /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_ashrdi3.o)
+                0x000000000800af64                __ashrdi3
+                0x000000000800af64                __aeabi_lasr
+ .text          0x000000000800af80      0x370 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+                0x000000000800af80                __aeabi_drsub
+                0x000000000800af88                __aeabi_dsub
+                0x000000000800af88                __subdf3
+                0x000000000800af8c                __adddf3
+                0x000000000800af8c                __aeabi_dadd
+                0x000000000800b204                __aeabi_ui2d
+                0x000000000800b204                __floatunsidf
+                0x000000000800b224                __floatsidf
+                0x000000000800b224                __aeabi_i2d
+                0x000000000800b248                __extendsfdf2
+                0x000000000800b248                __aeabi_f2d
+                0x000000000800b284                __aeabi_ul2d
+                0x000000000800b284                __floatundidf
+                0x000000000800b294                __floatdidf
+                0x000000000800b294                __aeabi_l2d
+ .text          0x000000000800b2f0      0x424 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
+                0x000000000800b2f0                __aeabi_dmul
+                0x000000000800b2f0                __muldf3
+                0x000000000800b544                __aeabi_ddiv
+                0x000000000800b544                __divdf3
+ .text          0x000000000800b714      0x110 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_cmpdf2.o)
+                0x000000000800b714                __gtdf2
+                0x000000000800b714                __gedf2
+                0x000000000800b71c                __ltdf2
+                0x000000000800b71c                __ledf2
+                0x000000000800b724                __cmpdf2
+                0x000000000800b724                __eqdf2
+                0x000000000800b724                __nedf2
+                0x000000000800b7a0                __aeabi_cdrcmple
+                0x000000000800b7b0                __aeabi_cdcmple
+                0x000000000800b7b0                __aeabi_cdcmpeq
+                0x000000000800b7c0                __aeabi_dcmpeq
+                0x000000000800b7d4                __aeabi_dcmplt
+                0x000000000800b7e8                __aeabi_dcmple
+                0x000000000800b7fc                __aeabi_dcmpge
+                0x000000000800b810                __aeabi_dcmpgt
+ .text          0x000000000800b824       0x2c /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_unorddf2.o)
+                0x000000000800b824                __aeabi_dcmpun
+                0x000000000800b824                __unorddf2
+ .text          0x000000000800b850       0x40 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixunsdfsi.o)
+                0x000000000800b850                __fixunsdfsi
+                0x000000000800b850                __aeabi_d2uiz
+ .text          0x000000000800b890       0xa0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_truncdfsf2.o)
+                0x000000000800b890                __aeabi_d2f
+                0x000000000800b890                __truncdfsf2
+ .text          0x000000000800b930      0x21c /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+                0x000000000800b930                __aeabi_frsub
+                0x000000000800b938                __subsf3
+                0x000000000800b938                __aeabi_fsub
+                0x000000000800b93c                __aeabi_fadd
+                0x000000000800b93c                __addsf3
+                0x000000000800ba9c                __aeabi_ui2f
+                0x000000000800ba9c                __floatunsisf
+                0x000000000800baa4                __aeabi_i2f
+                0x000000000800baa4                __floatsisf
+                0x000000000800bac0                __floatundisf
+                0x000000000800bac0                __aeabi_ul2f
+                0x000000000800bad0                __floatdisf
+                0x000000000800bad0                __aeabi_l2f
+ .text          0x000000000800bb4c      0x2a0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_muldivsf3.o)
+                0x000000000800bb4c                __mulsf3
+                0x000000000800bb4c                __aeabi_fmul
+                0x000000000800bcb4                __divsf3
+                0x000000000800bcb4                __aeabi_fdiv
+ .text          0x000000000800bdec       0xec /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_cmpsf2.o)
+                0x000000000800bdec                __gtsf2
+                0x000000000800bdec                __gesf2
+                0x000000000800bdf4                __lesf2
+                0x000000000800bdf4                __ltsf2
+                0x000000000800bdfc                __nesf2
+                0x000000000800bdfc                __eqsf2
+                0x000000000800bdfc                __cmpsf2
+                0x000000000800be5c                __aeabi_cfrcmple
+                0x000000000800be64                __aeabi_cfcmple
+                0x000000000800be64                __aeabi_cfcmpeq
+                0x000000000800be74                __aeabi_fcmpeq
+                0x000000000800be88                __aeabi_fcmplt
+                0x000000000800be9c                __aeabi_fcmple
+                0x000000000800beb0                __aeabi_fcmpge
+                0x000000000800bec4                __aeabi_fcmpgt
+ .text          0x000000000800bed8       0x2c /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_unordsf2.o)
+                0x000000000800bed8                __aeabi_fcmpun
+                0x000000000800bed8                __unordsf2
+ .text          0x000000000800bf04       0x4c /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixsfsi.o)
+                0x000000000800bf04                __fixsfsi
+                0x000000000800bf04                __aeabi_f2iz
+ .text          0x000000000800bf50       0x40 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixunssfsi.o)
+                0x000000000800bf50                __aeabi_f2uiz
+                0x000000000800bf50                __fixunssfsi
+ .text          0x000000000800bf90       0xa0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_aeabi_ldivmod.o)
+                0x000000000800bf90                __aeabi_ldivmod
+ .text          0x000000000800c030       0x28 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_fixsfdi.o)
+                0x000000000800c030                __aeabi_f2lz
+                0x000000000800c030                __fixsfdi
+ .text          0x000000000800c058       0x4c /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_fixunssfdi.o)
+                0x000000000800c058                __aeabi_f2ulz
+                0x000000000800c058                __fixunssfdi
+ .text          0x000000000800c0a4      0x2dc /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_udivmoddi4.o)
+                0x000000000800c0a4                __udivmoddi4
+ .text          0x000000000800c380      0x9dc /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                0x000000000800c644                _Unwind_GetCFA
+                0x000000000800c648                __gnu_Unwind_RaiseException
+                0x000000000800c6a8                __gnu_Unwind_ForcedUnwind
+                0x000000000800c6bc                __gnu_Unwind_Resume
+                0x000000000800c700                __gnu_Unwind_Resume_or_Rethrow
+                0x000000000800c714                _Unwind_Complete
+                0x000000000800c718                _Unwind_DeleteException
+                0x000000000800c724                _Unwind_VRS_Get
+                0x000000000800c770                _Unwind_VRS_Set
+                0x000000000800c7c0                __gnu_Unwind_Backtrace
+                0x000000000800cb04                __aeabi_unwind_cpp_pr0
+                0x000000000800cb08                __aeabi_unwind_cpp_pr1
+                0x000000000800cb0c                __aeabi_unwind_cpp_pr2
+                0x000000000800cb10                _Unwind_VRS_Pop
+ .text          0x000000000800cd5c      0x1ac /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+                0x000000000800cd5c                __restore_core_regs
+                0x000000000800cd5c                restore_core_regs
+                0x000000000800cd74                __gnu_Unwind_Restore_VFP
+                0x000000000800cd7c                __gnu_Unwind_Save_VFP
+                0x000000000800cd84                __gnu_Unwind_Restore_VFP_D
+                0x000000000800cd8c                __gnu_Unwind_Save_VFP_D
+                0x000000000800cd94                __gnu_Unwind_Restore_VFP_D_16_to_31
+                0x000000000800cd9c                __gnu_Unwind_Save_VFP_D_16_to_31
+                0x000000000800cda4                __gnu_Unwind_Restore_WMMXD
+                0x000000000800cde8                __gnu_Unwind_Save_WMMXD
+                0x000000000800ce2c                __gnu_Unwind_Restore_WMMXC
+                0x000000000800ce40                __gnu_Unwind_Save_WMMXC
+                0x000000000800ce54                ___Unwind_RaiseException
+                0x000000000800ce54                _Unwind_RaiseException
+                0x000000000800ce78                ___Unwind_Resume
+                0x000000000800ce78                _Unwind_Resume
+                0x000000000800ce9c                _Unwind_Resume_or_Rethrow
+                0x000000000800ce9c                ___Unwind_Resume_or_Rethrow
+                0x000000000800cec0                ___Unwind_ForcedUnwind
+                0x000000000800cec0                _Unwind_ForcedUnwind
+                0x000000000800cee4                _Unwind_Backtrace
+                0x000000000800cee4                ___Unwind_Backtrace
+ .text          0x000000000800cf08      0x384 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+                0x000000000800cf60                __gnu_unwind_execute
+                0x000000000800d230                __gnu_unwind_frame
+                0x000000000800d25c                _Unwind_GetRegionStart
+                0x000000000800d268                _Unwind_GetLanguageSpecificData
+                0x000000000800d27c                _Unwind_GetTextRelBase
+                0x000000000800d284                _Unwind_GetDataRelBase
+ .text          0x000000000800d28c        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_dvmd_tls.o)
+                0x000000000800d28c                __aeabi_ldiv0
+                0x000000000800d28c                __aeabi_idiv0
+ *(.text*)
+ .text.Reset_Handler
+                0x000000000800d290       0x9c obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+                0x000000000800d290                Reset_Handler
+ .text.Default_Handler
+                0x000000000800d32c        0x2 obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+                0x000000000800d32c                EXTI2_IRQHandler
+                0x000000000800d32c                DebugMon_Handler
+                0x000000000800d32c                TIM1_CC_IRQHandler
+                0x000000000800d32c                HardFault_Handler
+                0x000000000800d32c                PVD_IRQHandler
+                0x000000000800d32c                PendSV_Handler
+                0x000000000800d32c                NMI_Handler
+                0x000000000800d32c                EXTI0_IRQHandler
+                0x000000000800d32c                UsageFault_Handler
+                0x000000000800d32c                ADC1_2_IRQHandler
+                0x000000000800d32c                SPI1_IRQHandler
+                0x000000000800d32c                TAMPER_IRQHandler
+                0x000000000800d32c                USART3_IRQHandler
+                0x000000000800d32c                RTC_IRQHandler
+                0x000000000800d32c                DMA1_Channel7_IRQHandler
+                0x000000000800d32c                CAN1_RX1_IRQHandler
+                0x000000000800d32c                TIM4_IRQHandler
+                0x000000000800d32c                DMA1_Channel6_IRQHandler
+                0x000000000800d32c                TIM3_IRQHandler
+                0x000000000800d32c                RCC_IRQHandler
+                0x000000000800d32c                TIM1_TRG_COM_IRQHandler
+                0x000000000800d32c                DMA1_Channel1_IRQHandler
+                0x000000000800d32c                Default_Handler
+                0x000000000800d32c                EXTI9_5_IRQHandler
+                0x000000000800d32c                SPI2_IRQHandler
+                0x000000000800d32c                MemManage_Handler
+                0x000000000800d32c                SVC_Handler
+                0x000000000800d32c                DMA1_Channel5_IRQHandler
+                0x000000000800d32c                EXTI4_IRQHandler
+                0x000000000800d32c                USB_LP_CAN1_RX0_IRQHandler
+                0x000000000800d32c                USB_HP_CAN1_TX_IRQHandler
+                0x000000000800d32c                DMA1_Channel3_IRQHandler
+                0x000000000800d32c                TIM1_UP_IRQHandler
+                0x000000000800d32c                WWDG_IRQHandler
+                0x000000000800d32c                TIM2_IRQHandler
+                0x000000000800d32c                TIM1_BRK_IRQHandler
+                0x000000000800d32c                EXTI1_IRQHandler
+                0x000000000800d32c                RTCAlarm_IRQHandler
+                0x000000000800d32c                USART2_IRQHandler
+                0x000000000800d32c                DMA1_Channel2_IRQHandler
+                0x000000000800d32c                CAN1_SCE_IRQHandler
+                0x000000000800d32c                FLASH_IRQHandler
+                0x000000000800d32c                BusFault_Handler
+                0x000000000800d32c                USBWakeUp_IRQHandler
+ *fill*         0x000000000800d32e        0x2 
+ .text.startup  0x000000000800d330     0x2568 /tmp/cc6Tpv7I.ltrans0.ltrans.o
+                0x000000000800d330                main
+ .text.lrintf   0x000000000800f898       0x74 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_lrint.o)
+                0x000000000800f898                lrintf
+ .text.acosf    0x000000000800f90c       0xa0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_acos.o)
+                0x000000000800f90c                acosf
+ .text.atan2f   0x000000000800f9ac        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_atan2.o)
+                0x000000000800f9ac                atan2f
+ .text.logf     0x000000000800f9b0       0xec /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_log.o)
+                0x000000000800f9b0                logf
+ .text.sqrtf    0x000000000800fa9c       0xa0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_sqrt.o)
+                0x000000000800fa9c                sqrtf
+ .text.__ieee754_acosf
+                0x000000000800fb3c      0x2c8 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_acos.o)
+                0x000000000800fb3c                __ieee754_acosf
+ .text.__ieee754_atan2f
+                0x000000000800fe04      0x124 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_atan2.o)
+                0x000000000800fe04                __ieee754_atan2f
+ .text.__ieee754_logf
+                0x000000000800ff28      0x288 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_log.o)
+                0x000000000800ff28                __ieee754_logf
+ .text.__ieee754_sqrtf
+                0x00000000080101b0       0xa8 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_sqrt.o)
+                0x00000000080101b0                __ieee754_sqrtf
+ .text.matherr  0x0000000008010258        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_matherr.o)
+                0x0000000008010258                matherr
+ .text.nan      0x000000000801025c        0xc /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_nan.o)
+                0x000000000801025c                nan
+ .text.atanf    0x0000000008010268      0x22c /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_atan.o)
+                0x0000000008010268                atanf
+ .text.fabsf    0x0000000008010494        0x8 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_fabs.o)
+                0x0000000008010494                fabsf
+ .text.__errno  0x000000000801049c        0xc /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-errno.o)
+                0x000000000801049c                __errno
+ .text.memset   0x00000000080104a8       0x9c /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+                0x00000000080104a8                memset
+ .text.strchr   0x0000000008010544       0xe8 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strchr.o)
+                0x0000000008010544                strchr
+ .text.strlen   0x000000000801062c       0x5c /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+                0x000000000801062c                strlen
+ .text.abort    0x0000000008010688       0x10 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-abort.o)
+                0x0000000008010688                abort
+ .text._raise_r
+                0x0000000008010698       0x60 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signal.o)
+                0x0000000008010698                _raise_r
+ .text.raise    0x00000000080106f8       0x10 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signal.o)
+                0x00000000080106f8                raise
+ .text._kill_r  0x0000000008010708       0x28 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signalr.o)
+                0x0000000008010708                _kill_r
+ .text._getpid_r
+                0x0000000008010730        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-signalr.o)
+                0x0000000008010730                _getpid_r
+ .text._getpid  0x0000000008010734       0x10 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(getpid.o)
+                0x0000000008010734                _getpid
+ .text._kill    0x0000000008010744       0x10 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(kill.o)
+                0x0000000008010744                _kill
+ .text._exit    0x0000000008010754        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+                0x0000000008010754                _exit
+ *(.rodata)
+ .rodata        0x0000000008010758       0x3c /tmp/cc6Tpv7I.ltrans0.ltrans.o
+ .rodata        0x0000000008010794      0x1b6 /tmp/cc6Tpv7I.ltrans1.ltrans.o
+ *fill*         0x000000000801094a        0x2 
+ .rodata        0x000000000801094c       0x28 /tmp/cc6Tpv7I.ltrans3.ltrans.o
+ .rodata        0x0000000008010974       0x15 /tmp/cc6Tpv7I.ltrans5.ltrans.o
+ *fill*         0x0000000008010989        0x3 
+ .rodata        0x000000000801098c       0x10 /tmp/cc6Tpv7I.ltrans6.ltrans.o
+                0x000000000801098c                refArrayQuadrants
+ .rodata        0x000000000801099c       0x30 /tmp/cc6Tpv7I.ltrans7.ltrans.o
+ .rodata        0x00000000080109cc      0x137 /tmp/cc6Tpv7I.ltrans9.ltrans.o
+ .rodata        0x0000000008010b03       0x14 /tmp/cc6Tpv7I.ltrans11.ltrans.o
+ *fill*         0x0000000008010b17        0x1 
+ .rodata        0x0000000008010b18      0x150 /tmp/cc6Tpv7I.ltrans15.ltrans.o
+                0x0000000008010b18                _ZL5boxes.lto_priv.204
+ *(.rodata*)
+ .rodata.str1.1
+                0x0000000008010c68        0x6 /tmp/cc6Tpv7I.ltrans0.ltrans.o
+ .rodata.str1.1
+                0x0000000008010c6e       0x1f /tmp/cc6Tpv7I.ltrans4.ltrans.o
+ .rodata.str1.1
+                0x0000000008010c8d        0x9 /tmp/cc6Tpv7I.ltrans5.ltrans.o
+ .rodata.str1.1
+                0x0000000008010c96       0x1f /tmp/cc6Tpv7I.ltrans7.ltrans.o
+ .rodata.str1.1
+                0x0000000008010cb5       0xa1 /tmp/cc6Tpv7I.ltrans9.ltrans.o
+                                         0xa8 (size before relaxing)
+ .rodata.str1.1
+                0x0000000008010d56       0xe2 /tmp/cc6Tpv7I.ltrans15.ltrans.o
+ .rodata.TWO23  0x0000000008010e38        0x8 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_lrint.o)
+ .rodata.acosf.str1.4
+                0x0000000008010e40        0x6 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_acos.o)
+                                          0x9 (size before relaxing)
+ *fill*         0x0000000008010e46        0x2 
+ .rodata.logf.str1.4
+                0x0000000008010e48        0x5 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_log.o)
+                                          0x9 (size before relaxing)
+ *fill*         0x0000000008010e4d        0x3 
+ .rodata.sqrtf.str1.4
+                0x0000000008010e50        0x8 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_sqrt.o)
+                                          0x6 (size before relaxing)
+ .rodata.atanhi
+                0x0000000008010e58       0x10 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_atan.o)
+ .rodata.atanlo
+                0x0000000008010e68       0x10 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_atan.o)
+ *(.glue_7)
+ .glue_7        0x0000000008010e78        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000008010e78        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                0x0000000008010e78                . = ALIGN (0x4)
+                0x0000000008010e78                _etext = .
+
+.vfp11_veneer   0x0000000008010e78        0x0
+ .vfp11_veneer  0x0000000008010e78        0x0 linker stubs
+
+.v4_bx          0x0000000008010e78        0x0
+ .v4_bx         0x0000000008010e78        0x0 linker stubs
+
+.iplt           0x0000000008010e78        0x0
+ .iplt          0x0000000008010e78        0x0 obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+
+.ARM.extab      0x0000000008010e78       0x18
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x0000000008010e78       0x18 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+
+.ARM            0x0000000008010e90      0x178
+                0x0000000008010e90                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx.text.startup
+                0x0000000008010ff8       0x10 /tmp/cc6Tpv7I.ltrans0.ltrans.o
+                                          0x8 (size before relaxing)
+ .ARM.exidx     0x0000000008010e90       0x10 /tmp/cc6Tpv7I.ltrans1.ltrans.o
+                                          0x8 (size before relaxing)
+ .ARM.exidx     0x0000000008010ea0       0x28 /tmp/cc6Tpv7I.ltrans3.ltrans.o
+                                         0x88 (size before relaxing)
+ .ARM.exidx     0x0000000008010ec8        0x0 /tmp/cc6Tpv7I.ltrans4.ltrans.o
+                                         0x28 (size before relaxing)
+ .ARM.exidx     0x0000000008010ec8       0x10 /tmp/cc6Tpv7I.ltrans5.ltrans.o
+                                         0xa0 (size before relaxing)
+ .ARM.exidx     0x0000000008010ed8       0x10 /tmp/cc6Tpv7I.ltrans7.ltrans.o
+                                         0x48 (size before relaxing)
+ .ARM.exidx     0x0000000008010ee8       0x10 /tmp/cc6Tpv7I.ltrans8.ltrans.o
+                                         0x28 (size before relaxing)
+ .ARM.exidx     0x0000000008010ef8       0x20 /tmp/cc6Tpv7I.ltrans9.ltrans.o
+                                         0x60 (size before relaxing)
+ .ARM.exidx     0x0000000008010f18       0x20 /tmp/cc6Tpv7I.ltrans10.ltrans.o
+                                         0x30 (size before relaxing)
+ .ARM.exidx     0x0000000008010f38       0x10 /tmp/cc6Tpv7I.ltrans11.ltrans.o
+                                         0x48 (size before relaxing)
+ .ARM.exidx     0x0000000008010f48        0x0 /tmp/cc6Tpv7I.ltrans12.ltrans.o
+                                         0x48 (size before relaxing)
+ .ARM.exidx     0x0000000008010f48        0x0 /tmp/cc6Tpv7I.ltrans13.ltrans.o
+                                         0x28 (size before relaxing)
+ .ARM.exidx     0x0000000008010f48        0x0 /tmp/cc6Tpv7I.ltrans15.ltrans.o
+                                          0x8 (size before relaxing)
+ .ARM.exidx     0x0000000008010f48        0x0 /tmp/cc6Tpv7I.ltrans16.ltrans.o
+                                         0x28 (size before relaxing)
+ .ARM.exidx     0x0000000008010f48        0x0 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_udivmoddi4.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx     0x0000000008010f48       0x78 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                         0xd8 (size before relaxing)
+ .ARM.exidx     0x0000000008010fc0       0x38 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+                                         0x48 (size before relaxing)
+                0x0000000008011008                __exidx_end = .
+
+.rel.dyn        0x0000000008011008        0x0
+ .rel.iplt      0x0000000008011008        0x0 obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+
+.preinit_array  0x0000000008011008        0x0
+                [!provide]                        PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                [!provide]                        PROVIDE (__preinit_array_end, .)
+
+.init_array     0x0000000008011008        0x0
+                [!provide]                        PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+                [!provide]                        PROVIDE (__init_array_end, .)
+
+.fini_array     0x0000000008011008        0x0
+                [!provide]                        PROVIDE (__fini_array_start, .)
+ *(.fini_array*)
+ *(SORT(.fini_array.*))
+                [!provide]                        PROVIDE (__fini_array_end, .)
+                0x0000000008011008                _sidata = .
+
+.data           0x0000000020000000      0x730 load address 0x0000000008011008
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ .data          0x0000000020000000        0xc /tmp/cc6Tpv7I.ltrans0.ltrans.o
+ .data          0x000000002000000c        0x4 /tmp/cc6Tpv7I.ltrans1.ltrans.o
+                0x000000002000000c                SystemCoreClock
+ .data          0x0000000020000010       0xf3 /tmp/cc6Tpv7I.ltrans2.ltrans.o
+ *fill*         0x0000000020000103        0x1 
+ .data          0x0000000020000104        0xc /tmp/cc6Tpv7I.ltrans3.ltrans.o
+ .data          0x0000000020000110      0x1bc /tmp/cc6Tpv7I.ltrans4.ltrans.o
+                0x00000000200002c6                isUsingSticksToArm.lto_priv.224
+                0x00000000200002c8                rcReadRawFunc.lto_priv.247
+ .data          0x00000000200002cc       0x10 /tmp/cc6Tpv7I.ltrans9.ltrans.o
+                0x00000000200002d8                pid_controller
+ .data          0x00000000200002dc       0x14 /tmp/cc6Tpv7I.ltrans10.ltrans.o
+                0x00000000200002e4                velocityControl
+                0x00000000200002ec                VelConstraintDynamic
+ .data          0x00000000200002f0        0x8 /tmp/cc6Tpv7I.ltrans11.ltrans.o
+                0x00000000200002f0                hse_value
+                0x00000000200002f4                _ZL22standardBoardAlignment.lto_priv.307
+                0x00000000200002f6                acc_1G
+ .data          0x00000000200002f8        0x4 /tmp/cc6Tpv7I.ltrans13.ltrans.o
+                0x00000000200002f8                AltHoldfromPos
+ *(.data*)
+ .data.__fdlib_version
+                0x00000000200002fc        0x1 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_lib_ver.o)
+                0x00000000200002fc                __fdlib_version
+ *fill*         0x00000000200002fd        0x3 
+ .data._impure_ptr
+                0x0000000020000300        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+                0x0000000020000300                _impure_ptr
+ *fill*         0x0000000020000304        0x4 
+ .data.impure_data
+                0x0000000020000308      0x428 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+                0x0000000020000730                . = ALIGN (0x4)
+                0x0000000020000730                _edata = .
+
+.igot.plt       0x0000000020000730        0x0 load address 0x0000000008011738
+ .igot.plt      0x0000000020000730        0x0 obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+                0x0000000020000730                . = ALIGN (0x4)
+
+.bss            0x0000000020000730     0x1894 load address 0x0000000008011738
+                0x0000000020000730                _sbss = .
+                0x0000000020000730                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x0000000020000730      0x40e /tmp/cc6Tpv7I.ltrans0.ltrans.o
+                0x000000002000073a                _ZL13ppmFrameCount.lto_priv.343
+                0x0000000020000765                rcSampleIndex.lto_priv.275
+                0x0000000020000768                rcInvalidPulsPeriod
+                0x0000000020000834                mag
+                0x000000002000083c                magAlign
+                0x0000000020000860                gyroAlign
+                0x0000000020000864                _ZL10gyroConfig.lto_priv.338
+                0x00000000200008b8                acc
+                0x00000000200008c4                accAlign
+                0x00000000200008d4                previousTime
+                0x000000002000095c                k3
+                0x0000000020000960                k2
+                0x0000000020000964                k1
+                0x0000000020000978                lookupYawRC
+                0x00000000200009a0                _ZL8mspPorts.lto_priv.297
+                0x0000000020000a38                flight3DConfig.lto_priv.310
+                0x0000000020000a3c                escAndServoConfig.lto_priv.311
+                0x0000000020000a42                rxRefreshRate.lto_priv.276
+                0x0000000020000a5c                throttleAngleScale
+                0x0000000020000a60                mixerConfig.lto_priv.336
+                0x0000000020000a64                currentMixer.lto_priv.309
+                0x0000000020000b24                rxConfig.lto_priv.226
+                0x0000000020000b28                motorControlEnable
+                0x0000000020000b3c                calibratingB
+ *fill*         0x0000000020000b3e        0x2 
+ .bss           0x0000000020000b40      0x178 /tmp/cc6Tpv7I.ltrans1.ltrans.o
+                0x0000000020000b4c                _ZL18inputFilteringMode.lto_priv.342
+                0x0000000020000b50                ppmDev
+                0x0000000020000c7c                mpuConfiguration
+                0x0000000020000c88                _ZL16mpuIntExtiConfig.lto_priv.345
+                0x0000000020000c8c                _ZL8ms5611_c.lto_priv.340
+                0x0000000020000c9c                baroTemperature
+                0x0000000020000ca0                baro
+ .bss           0x0000000020000cb8        0x1 /tmp/cc6Tpv7I.ltrans2.ltrans.o
+                0x0000000020000cb8                Global_Status
+ *fill*         0x0000000020000cb9        0x3 
+ .bss           0x0000000020000cbc       0xe4 /tmp/cc6Tpv7I.ltrans3.ltrans.o
+ .bss           0x0000000020000da0      0x551 /tmp/cc6Tpv7I.ltrans4.ltrans.o
+                0x0000000020000da0                masterConfig
+                0x00000000200012bc                escAndServoConfig.lto_priv.194
+                0x00000000200012c0                pidProfile.lto_priv.195
+                0x00000000200012c4                rxRuntimeConfigPtr.lto_priv.265
+                0x00000000200012c8                rxRuntimeConfig
+                0x00000000200012ca                spek_chan_shift.lto_priv.264
+                0x00000000200012cb                spek_chan_mask.lto_priv.266
+                0x00000000200012cc                spekHiRes.lto_priv.196
+                0x00000000200012cd                checksum
+                0x00000000200012d0                _ZZ13updateCompassE4tCal.lto_priv.238
+                0x00000000200012d4                _ZZ13updateCompassE12nextUpdateAt.lto_priv.237
+                0x00000000200012d8                magADC
+                0x00000000200012de                _ZZ13updateCompassE14magZeroTempMin.lto_priv.239
+                0x00000000200012e4                _ZZ13updateCompassE14magZeroTempMax.lto_priv.240
+                0x00000000200012f0                _ZL7magInit.lto_priv.299
+ *fill*         0x00000000200012f1        0x3 
+ .bss           0x00000000200012f4       0x3c /tmp/cc6Tpv7I.ltrans5.ltrans.o
+ .bss           0x0000000020001330       0x8c /tmp/cc6Tpv7I.ltrans7.ltrans.o
+                0x0000000020001330                _ZL13mspSerialPort.lto_priv.228
+                0x0000000020001334                i2cErrorCount.lto_priv.344
+                0x0000000020001338                _ZL14enabledSensors.lto_priv.209
+                0x000000002000133c                flightModeFlags
+                0x0000000020001340                rcModeActivationMask
+                0x0000000020001344                _ZL16activeBoxIdCount.lto_priv.296
+                0x0000000020001345                _ZL12activeBoxIds.lto_priv.295
+                0x0000000020001360                accSmooth
+                0x0000000020001366                gyroADC
+                0x000000002000136c                motor
+                0x0000000020001384                inclination
+                0x0000000020001388                heading
+                0x000000002000138c                _ZL6EstAlt.lto_priv.225
+                0x0000000020001390                vario
+                0x0000000020001394                mAhDrawn
+                0x0000000020001398                rssi
+                0x000000002000139c                amperage
+                0x00000000200013a0                _ZL15serialPortCount.lto_priv.318
+                0x00000000200013a4                _ZL19serialPortUsageList.lto_priv.206
+ .bss           0x00000000200013bc       0xd8 /tmp/cc6Tpv7I.ltrans8.ltrans.o
+                0x00000000200013bc                rcCommand
+                0x00000000200013c4                PIDweight
+                0x00000000200013c8                _ZL10PTermState.lto_priv.218
+                0x00000000200013d4                _ZL10errorGyroI.lto_priv.244
+                0x0000000020001404                _ZL10DTermState.lto_priv.220
+                0x0000000020001410                axisPID
+                0x0000000020001418                _ZL11errorAngleI.lto_priv.221
+                0x0000000020001420                dynP8
+                0x0000000020001438                dynD8
+                0x0000000020001470                _ZL12errorAngleIf.lto_priv.222
+                0x0000000020001478                _ZL11errorGyroIf.lto_priv.219
+ .bss           0x0000000020001494      0x3f1 /tmp/cc6Tpv7I.ltrans9.ltrans.o
+                0x0000000020001494                extiHandlerConfigs.lto_priv.321
+                0x00000000200014a4                uartPort1.lto_priv.341
+                0x00000000200016fa                lookupThrottleRC
+                0x0000000020001712                lookupPitchRollRC
+                0x0000000020001720                _ZL10beeperIsOn.lto_priv.234
+                0x0000000020001724                _ZL20beeperNextToggleTime.lto_priv.233
+                0x0000000020001728                _ZL9beeperPos.lto_priv.235
+                0x000000002000172c                _ZL18currentBeeperEntry.lto_priv.232
+                0x0000000020001748                usTicks.lto_priv.322
+                0x000000002000174c                cycleTime
+                0x0000000020001750                _ZL6motors.lto_priv.230
+                0x0000000020001780                motorCount
+                0x0000000020001784                timerConfig
+                0x0000000020001828                gyroScaleRad
+                0x000000002000182c                _ZL16imuRuntimeConfig.lto_priv.298
+                0x000000002000183c                netAccMagnitude
+                0x0000000020001840                EstG
+                0x000000002000184c                smallAngle
+                0x000000002000185c                headFreeModeHold
+                0x0000000020001860                accZoffsetCalCycle
+                0x0000000020001868                _ZL11accDeadband.lto_priv.335
+                0x000000002000186c                accSum
+                0x0000000020001878                accTimeSum
+                0x000000002000187c                accSumCount
+                0x0000000020001880                accSumCountXY
+                0x0000000020001884                _ZL15warningLedState.lto_priv.231
+ *fill*         0x0000000020001885        0x3 
+ .bss           0x0000000020001888      0x10e /tmp/cc6Tpv7I.ltrans10.ltrans.o
+                0x0000000020001888                gyro
+                0x00000000200018bc                _ZL14failsafeConfig.lto_priv.337
+                0x00000000200018c0                _ZL18deadband3dThrottle.lto_priv.294
+                0x00000000200018c4                _ZL8rxConfig.lto_priv.293
+                0x00000000200018d8                AltRstRequired
+                0x00000000200018dc                _velocity_z
+                0x00000000200018e0                _ZL12_last_update.lto_priv.339
+                0x00000000200018e8                baroGroundTemperature
+                0x00000000200018ec                baroGroundPressure
+                0x00000000200018f0                baroPressure
+                0x00000000200018fc                isTofDataNewflag
+                0x00000000200018fd                out_of_range
+                0x0000000020001900                ToF_Height
+                0x0000000020001968                accVelScale
+                0x0000000020001978                AltHold
+                0x000000002000197c                _ZL10pidProfile.lto_priv.329
+                0x0000000020001980                setVelocity
+                0x0000000020001984                errorVelocityI
+                0x0000000020001988                altHoldThrottleAdjustment
+                0x0000000020001994                NewSensorRange
+ *fill*         0x0000000020001996        0x2 
+ .bss           0x0000000020001998      0x305 /tmp/cc6Tpv7I.ltrans11.ltrans.o
+                0x0000000020001998                vbatscaled
+                0x000000002000199c                batteryConfig
+                0x00000000200019d9                _ZL16xBusChannelCount.lto_priv.286
+                0x00000000200019da                _ZL17xBusFrameReceived.lto_priv.250
+                0x00000000200019dc                spekChannelData.lto_priv.267
+                0x0000000020001a0c                sumhChannels.lto_priv.253
+                0x0000000020001a2c                sumdChannels.lto_priv.258
+                0x0000000020001a4c                sbusChannelData.lto_priv.261
+                0x0000000020001a94                mspFrame.lto_priv.199
+                0x0000000020001ab8                _ZL8captures.lto_priv.248
+                0x0000000020001ad0                adcConfig
+                0x0000000020001ae0                adcValues
+                0x0000000020001b78                vbat
+                0x0000000020001b80                _ZL17xBusFramePosition.lto_priv.284
+                0x0000000020001b81                _ZL16xBusDataIncoming.lto_priv.283
+                0x0000000020001b82                _ZL15xBusFrameLength.lto_priv.285
+                0x0000000020001b83                _ZL12xBusProvider.lto_priv.287
+                0x0000000020001b89                spekFrame.lto_priv.263
+                0x0000000020001b99                rcFrameComplete.lto_priv.262
+                0x0000000020001ba1                sumhFrame.lto_priv.252
+                0x0000000020001bb6                sumhFrameDone.lto_priv.251
+                0x0000000020001bbd                sumdFrameDone.lto_priv.254
+                0x0000000020001bbe                crc.lto_priv.255
+                0x0000000020001bc0                sumdChannelCount.lto_priv.256
+                0x0000000020001bc1                sumd.lto_priv.257
+                0x0000000020001bed                sbusFrame.lto_priv.260
+                0x0000000020001c06                sbusFrameDone.lto_priv.259
+                0x0000000020001c10                _ZL13boardRotation.lto_priv.308
+                0x0000000020001c34                _ZL12batteryState.lto_priv.274
+                0x0000000020001c36                batteryWarningVoltage
+                0x0000000020001c38                batteryCriticalVoltage
+                0x0000000020001c3a                flightIndicatorFlag
+                0x0000000020001c3c                InflightcalibratingA
+                0x0000000020001c40                _ZL17accelerationTrims.lto_priv.236
+                0x0000000020001c5c                accADC
+                0x0000000020001c62                AccInflightCalibrationActive
+                0x0000000020001c63                AccInflightCalibrationMeasurementDone
+                0x0000000020001c64                AccInflightCalibrationSavetoEEProm
+                0x0000000020001c68                rxConfig.lto_priv.227
+                0x0000000020001c6c                _ZL19activeFeaturesLatch.lto_priv.208
+                0x0000000020001c70                suspendRxSignalUntil.lto_priv.246
+                0x0000000020001c74                skipRxSamples.lto_priv.245
+                0x0000000020001c78                _ZL13failsafeState.lto_priv.223
+                0x0000000020001c9c                batteryCellCount
+ *fill*         0x0000000020001c9d        0x3 
+ .bss           0x0000000020001ca0      0x16c /tmp/cc6Tpv7I.ltrans13.ltrans.o
+                0x0000000020001ca0                sysTickUptime.lto_priv.197
+                0x0000000020001ca4                rxSignalReceived.lto_priv.243
+                0x0000000020001ca8                adjustmentStates
+                0x0000000020001cd8                adjustmentStateMask
+                0x0000000020001cda                rcData
+                0x0000000020001cfe                _ZL30currentControlRateProfileIndex.lto_priv.326
+                0x0000000020001d00                currentControlRateProfile
+                0x0000000020001d04                current_cmd_index
+                0x0000000020001d08                is_cmd_completed
+                0x0000000020001d0c                total_cmd_index
+                0x0000000020001d10                HeightAchieved
+                0x0000000020001d12                cmd_temp
+                0x0000000020001ddc                _ZL10pidProfile.lto_priv.331
+                0x0000000020001de2                PositionX
+                0x0000000020001de4                PositionY
+                0x0000000020001dea                VelocityX
+                0x0000000020001dec                VelocityY
+                0x0000000020001dee                armingFlags
+                0x0000000020001df0                IoutY
+                0x0000000020001df2                IoutX
+                0x0000000020001df4                accel
+                0x0000000020001dfc                accel_prev
+                0x0000000020001e04                PID_x
+                0x0000000020001e08                PID_y
+ .bss           0x0000000020001e0c      0x160 /tmp/cc6Tpv7I.ltrans14.ltrans.o
+                0x0000000020001e0c                MyDevice
+ .bss           0x0000000020001f6c       0x35 /tmp/cc6Tpv7I.ltrans15.ltrans.o
+                0x0000000020001f6c                _ZL11currentPort.lto_priv.205
+                0x0000000020001f70                magHold
+                0x0000000020001f72                rxMspFrameDone.lto_priv.249
+                0x0000000020001f73                read_position
+                0x0000000020001f74                posX
+                0x0000000020001f76                posY
+                0x0000000020001f78                deltaTime
+                0x0000000020001f7c                currentProfile
+                0x0000000020001f80                motor_disarmed
+                0x0000000020001f98                calibratingA
+                0x0000000020001f9a                stateFlags
+                0x0000000020001f9c                _ZL12serialConfig.lto_priv.207
+                0x0000000020001fa0                _ZL17isRebootScheduled.lto_priv.229
+ *fill*         0x0000000020001fa1        0x3 
+ .bss           0x0000000020001fa4       0x1a /tmp/cc6Tpv7I.ltrans16.ltrans.o
+                0x0000000020001fa4                _ZL16rcControlsConfig.lto_priv.333
+                0x0000000020001fa8                _ZL19initialThrottleHold.lto_priv.241
+                0x0000000020001fb0                _ZL17escAndServoConfig.lto_priv.334
+                0x0000000020001fb4                AccInflightCalibrationArmed
+                0x0000000020001fb5                isCalibrated
+                0x0000000020001fb8                _ZL8disarmAt.lto_priv.242
+                0x0000000020001fbc                calibratingG
+ *(SORT(.bss*))
+ *(COMMON)
+ *fill*         0x0000000020001fbe        0x2 
+ COMMON         0x0000000020001fc0        0x4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a(lib_a-reent.o)
+                0x0000000020001fc0                errno
+                0x0000000020001fc4                . = ALIGN (0x4)
+                0x0000000020001fc4                _ebss = .
+                0x0000000020001fc4                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x0000000020001fc4      0x400 load address 0x0000000008011738
+                0x0000000020001fc4                . = ALIGN (0x4)
+                0x0000000020001fc4                PROVIDE (end, .)
+                [!provide]                        PROVIDE (_end, .)
+                0x0000000020001fc4                . = (. + _Min_Heap_Size)
+                0x00000000200023c4                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000020001fc4      0x400 
+                0x00000000200023c4                . = ALIGN (0x4)
+
+.memory_b1_text
+ *(.mb1text)
+ *(.mb1text*)
+ *(.mb1rodata)
+ *(.mb1rodata*)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x2f
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x21 obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+ .ARM.attributes
+                0x0000000000000021       0x31 /tmp/cc6Tpv7I.ltrans0.ltrans.o
+ .ARM.attributes
+                0x0000000000000052       0x31 /tmp/cc6Tpv7I.ltrans1.ltrans.o
+ .ARM.attributes
+                0x0000000000000083       0x31 /tmp/cc6Tpv7I.ltrans2.ltrans.o
+ .ARM.attributes
+                0x00000000000000b4       0x31 /tmp/cc6Tpv7I.ltrans3.ltrans.o
+ .ARM.attributes
+                0x00000000000000e5       0x31 /tmp/cc6Tpv7I.ltrans4.ltrans.o
+ .ARM.attributes
+                0x0000000000000116       0x31 /tmp/cc6Tpv7I.ltrans5.ltrans.o
+ .ARM.attributes
+                0x0000000000000147       0x31 /tmp/cc6Tpv7I.ltrans6.ltrans.o
+ .ARM.attributes
+                0x0000000000000178       0x31 /tmp/cc6Tpv7I.ltrans7.ltrans.o
+ .ARM.attributes
+                0x00000000000001a9       0x31 /tmp/cc6Tpv7I.ltrans8.ltrans.o
+ .ARM.attributes
+                0x00000000000001da       0x31 /tmp/cc6Tpv7I.ltrans9.ltrans.o
+ .ARM.attributes
+                0x000000000000020b       0x31 /tmp/cc6Tpv7I.ltrans10.ltrans.o
+ .ARM.attributes
+                0x000000000000023c       0x31 /tmp/cc6Tpv7I.ltrans11.ltrans.o
+ .ARM.attributes
+                0x000000000000026d       0x31 /tmp/cc6Tpv7I.ltrans12.ltrans.o
+ .ARM.attributes
+                0x000000000000029e       0x31 /tmp/cc6Tpv7I.ltrans13.ltrans.o
+ .ARM.attributes
+                0x00000000000002cf       0x31 /tmp/cc6Tpv7I.ltrans14.ltrans.o
+ .ARM.attributes
+                0x0000000000000300       0x31 /tmp/cc6Tpv7I.ltrans15.ltrans.o
+ .ARM.attributes
+                0x0000000000000331       0x31 /tmp/cc6Tpv7I.ltrans16.ltrans.o
+ .ARM.attributes
+                0x0000000000000362       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_lrint.o)
+ .ARM.attributes
+                0x000000000000038f       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_acos.o)
+ .ARM.attributes
+                0x00000000000003bc       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_atan2.o)
+ .ARM.attributes
+                0x00000000000003e9       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_log.o)
+ .ARM.attributes
+                0x0000000000000416       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_sqrt.o)
+ .ARM.attributes
+                0x0000000000000443       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_acos.o)
+ .ARM.attributes
+                0x0000000000000470       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_atan2.o)
+ .ARM.attributes
+                0x000000000000049d       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_log.o)
+ .ARM.attributes
+                0x00000000000004ca       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_sqrt.o)
+ .ARM.attributes
+                0x00000000000004f7       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_lib_ver.o)
+ .ARM.attributes
+                0x0000000000000524       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_matherr.o)
+ .ARM.attributes
+                0x0000000000000551       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_nan.o)
+ .ARM.attributes
+                0x000000000000057e       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_atan.o)
+ .ARM.attributes
+                0x00000000000005ab       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_fabs.o)
+ .ARM.attributes
+                0x00000000000005d8       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000605       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000632       0x1b /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000000000000064d       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000000000067a       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strchr.o)
+ .ARM.attributes
+                0x00000000000006a7       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+ .ARM.attributes
+                0x00000000000006d4       0x1d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_ashrdi3.o)
+ .ARM.attributes
+                0x00000000000006f1       0x1d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x000000000000070e       0x1d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x000000000000072b       0x1d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0000000000000748       0x1d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x0000000000000765       0x1d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x0000000000000782       0x1d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x000000000000079f       0x1d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000000000007bc       0x1d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x00000000000007d9       0x1d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x00000000000007f6       0x1d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_unordsf2.o)
+ .ARM.attributes
+                0x0000000000000813       0x1d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixsfsi.o)
+ .ARM.attributes
+                0x0000000000000830       0x1d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixunssfsi.o)
+ .ARM.attributes
+                0x000000000000084d       0x1d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x000000000000086a       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_fixsfdi.o)
+ .ARM.attributes
+                0x0000000000000897       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_fixunssfdi.o)
+ .ARM.attributes
+                0x00000000000008c4       0x2d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000000000008f1       0x1d /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_dvmd_tls.o)
+OUTPUT(obj/main/cleanflight_CJMCU.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000    0x27349
+ .debug_info    0x0000000000000000     0x4658 /tmp/cc6Tpv7I.ltrans0.ltrans.o
+ .debug_info    0x0000000000004658     0x53e2 /tmp/cc6Tpv7I.ltrans1.ltrans.o
+ .debug_info    0x0000000000009a3a     0x22c6 /tmp/cc6Tpv7I.ltrans2.ltrans.o
+ .debug_info    0x000000000000bd00     0x2f34 /tmp/cc6Tpv7I.ltrans3.ltrans.o
+ .debug_info    0x000000000000ec34     0x3fc8 /tmp/cc6Tpv7I.ltrans4.ltrans.o
+ .debug_info    0x0000000000012bfc     0x2af5 /tmp/cc6Tpv7I.ltrans5.ltrans.o
+ .debug_info    0x00000000000156f1     0x26fb /tmp/cc6Tpv7I.ltrans6.ltrans.o
+ .debug_info    0x0000000000017dec     0x1695 /tmp/cc6Tpv7I.ltrans7.ltrans.o
+ .debug_info    0x0000000000019481     0x1190 /tmp/cc6Tpv7I.ltrans8.ltrans.o
+ .debug_info    0x000000000001a611     0x3283 /tmp/cc6Tpv7I.ltrans9.ltrans.o
+ .debug_info    0x000000000001d894     0x161e /tmp/cc6Tpv7I.ltrans10.ltrans.o
+ .debug_info    0x000000000001eeb2     0x1e85 /tmp/cc6Tpv7I.ltrans11.ltrans.o
+ .debug_info    0x0000000000020d37     0x1f1b /tmp/cc6Tpv7I.ltrans12.ltrans.o
+ .debug_info    0x0000000000022c52      0xff3 /tmp/cc6Tpv7I.ltrans13.ltrans.o
+ .debug_info    0x0000000000023c45     0x202d /tmp/cc6Tpv7I.ltrans14.ltrans.o
+ .debug_info    0x0000000000025c72     0x11bc /tmp/cc6Tpv7I.ltrans15.ltrans.o
+ .debug_info    0x0000000000026e2e      0x51b /tmp/cc6Tpv7I.ltrans16.ltrans.o
+
+.debug_abbrev   0x0000000000000000     0x463a
+ .debug_abbrev  0x0000000000000000      0x494 /tmp/cc6Tpv7I.ltrans0.ltrans.o
+ .debug_abbrev  0x0000000000000494      0x4af /tmp/cc6Tpv7I.ltrans1.ltrans.o
+ .debug_abbrev  0x0000000000000943      0x2c0 /tmp/cc6Tpv7I.ltrans2.ltrans.o
+ .debug_abbrev  0x0000000000000c03      0x606 /tmp/cc6Tpv7I.ltrans3.ltrans.o
+ .debug_abbrev  0x0000000000001209      0x491 /tmp/cc6Tpv7I.ltrans4.ltrans.o
+ .debug_abbrev  0x000000000000169a      0x557 /tmp/cc6Tpv7I.ltrans5.ltrans.o
+ .debug_abbrev  0x0000000000001bf1      0x30b /tmp/cc6Tpv7I.ltrans6.ltrans.o
+ .debug_abbrev  0x0000000000001efc      0x3e8 /tmp/cc6Tpv7I.ltrans7.ltrans.o
+ .debug_abbrev  0x00000000000022e4      0x26c /tmp/cc6Tpv7I.ltrans8.ltrans.o
+ .debug_abbrev  0x0000000000002550      0x5b3 /tmp/cc6Tpv7I.ltrans9.ltrans.o
+ .debug_abbrev  0x0000000000002b03      0x48b /tmp/cc6Tpv7I.ltrans10.ltrans.o
+ .debug_abbrev  0x0000000000002f8e      0x5f0 /tmp/cc6Tpv7I.ltrans11.ltrans.o
+ .debug_abbrev  0x000000000000357e      0x54a /tmp/cc6Tpv7I.ltrans12.ltrans.o
+ .debug_abbrev  0x0000000000003ac8      0x359 /tmp/cc6Tpv7I.ltrans13.ltrans.o
+ .debug_abbrev  0x0000000000003e21      0x2bf /tmp/cc6Tpv7I.ltrans14.ltrans.o
+ .debug_abbrev  0x00000000000040e0      0x329 /tmp/cc6Tpv7I.ltrans15.ltrans.o
+ .debug_abbrev  0x0000000000004409      0x231 /tmp/cc6Tpv7I.ltrans16.ltrans.o
+
+.debug_loc      0x0000000000000000    0x12d4b
+ .debug_loc     0x0000000000000000     0x1749 /tmp/cc6Tpv7I.ltrans0.ltrans.o
+ .debug_loc     0x0000000000001749     0x1c4d /tmp/cc6Tpv7I.ltrans1.ltrans.o
+ .debug_loc     0x0000000000003396     0x1331 /tmp/cc6Tpv7I.ltrans2.ltrans.o
+ .debug_loc     0x00000000000046c7     0x1b28 /tmp/cc6Tpv7I.ltrans3.ltrans.o
+ .debug_loc     0x00000000000061ef     0x1266 /tmp/cc6Tpv7I.ltrans4.ltrans.o
+ .debug_loc     0x0000000000007455      0xd57 /tmp/cc6Tpv7I.ltrans5.ltrans.o
+ .debug_loc     0x00000000000081ac     0x25af /tmp/cc6Tpv7I.ltrans6.ltrans.o
+ .debug_loc     0x000000000000a75b      0xbeb /tmp/cc6Tpv7I.ltrans7.ltrans.o
+ .debug_loc     0x000000000000b346     0x1662 /tmp/cc6Tpv7I.ltrans8.ltrans.o
+ .debug_loc     0x000000000000c9a8     0x11b9 /tmp/cc6Tpv7I.ltrans9.ltrans.o
+ .debug_loc     0x000000000000db61      0xa9d /tmp/cc6Tpv7I.ltrans10.ltrans.o
+ .debug_loc     0x000000000000e5fe      0xdb7 /tmp/cc6Tpv7I.ltrans11.ltrans.o
+ .debug_loc     0x000000000000f3b5     0x12ba /tmp/cc6Tpv7I.ltrans12.ltrans.o
+ .debug_loc     0x000000000001066f      0xc6e /tmp/cc6Tpv7I.ltrans13.ltrans.o
+ .debug_loc     0x00000000000112dd     0x15ab /tmp/cc6Tpv7I.ltrans14.ltrans.o
+ .debug_loc     0x0000000000012888      0x3af /tmp/cc6Tpv7I.ltrans15.ltrans.o
+ .debug_loc     0x0000000000012c37      0x114 /tmp/cc6Tpv7I.ltrans16.ltrans.o
+
+.debug_aranges  0x0000000000000000      0x220
+ .debug_aranges
+                0x0000000000000000       0x20 /tmp/cc6Tpv7I.ltrans0.ltrans.o
+ .debug_aranges
+                0x0000000000000020       0x20 /tmp/cc6Tpv7I.ltrans1.ltrans.o
+ .debug_aranges
+                0x0000000000000040       0x20 /tmp/cc6Tpv7I.ltrans2.ltrans.o
+ .debug_aranges
+                0x0000000000000060       0x20 /tmp/cc6Tpv7I.ltrans3.ltrans.o
+ .debug_aranges
+                0x0000000000000080       0x20 /tmp/cc6Tpv7I.ltrans4.ltrans.o
+ .debug_aranges
+                0x00000000000000a0       0x20 /tmp/cc6Tpv7I.ltrans5.ltrans.o
+ .debug_aranges
+                0x00000000000000c0       0x20 /tmp/cc6Tpv7I.ltrans6.ltrans.o
+ .debug_aranges
+                0x00000000000000e0       0x20 /tmp/cc6Tpv7I.ltrans7.ltrans.o
+ .debug_aranges
+                0x0000000000000100       0x20 /tmp/cc6Tpv7I.ltrans8.ltrans.o
+ .debug_aranges
+                0x0000000000000120       0x20 /tmp/cc6Tpv7I.ltrans9.ltrans.o
+ .debug_aranges
+                0x0000000000000140       0x20 /tmp/cc6Tpv7I.ltrans10.ltrans.o
+ .debug_aranges
+                0x0000000000000160       0x20 /tmp/cc6Tpv7I.ltrans11.ltrans.o
+ .debug_aranges
+                0x0000000000000180       0x20 /tmp/cc6Tpv7I.ltrans12.ltrans.o
+ .debug_aranges
+                0x00000000000001a0       0x20 /tmp/cc6Tpv7I.ltrans13.ltrans.o
+ .debug_aranges
+                0x00000000000001c0       0x20 /tmp/cc6Tpv7I.ltrans14.ltrans.o
+ .debug_aranges
+                0x00000000000001e0       0x20 /tmp/cc6Tpv7I.ltrans15.ltrans.o
+ .debug_aranges
+                0x0000000000000200       0x20 /tmp/cc6Tpv7I.ltrans16.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x3598
+ .debug_ranges  0x0000000000000000      0xc78 /tmp/cc6Tpv7I.ltrans0.ltrans.o
+ .debug_ranges  0x0000000000000c78      0xb60 /tmp/cc6Tpv7I.ltrans1.ltrans.o
+ .debug_ranges  0x00000000000017d8      0x1e8 /tmp/cc6Tpv7I.ltrans2.ltrans.o
+ .debug_ranges  0x00000000000019c0      0x2b0 /tmp/cc6Tpv7I.ltrans3.ltrans.o
+ .debug_ranges  0x0000000000001c70      0x270 /tmp/cc6Tpv7I.ltrans4.ltrans.o
+ .debug_ranges  0x0000000000001ee0      0x368 /tmp/cc6Tpv7I.ltrans5.ltrans.o
+ .debug_ranges  0x0000000000002248      0x1f8 /tmp/cc6Tpv7I.ltrans6.ltrans.o
+ .debug_ranges  0x0000000000002440      0x120 /tmp/cc6Tpv7I.ltrans7.ltrans.o
+ .debug_ranges  0x0000000000002560      0x110 /tmp/cc6Tpv7I.ltrans8.ltrans.o
+ .debug_ranges  0x0000000000002670      0x300 /tmp/cc6Tpv7I.ltrans9.ltrans.o
+ .debug_ranges  0x0000000000002970      0x2b0 /tmp/cc6Tpv7I.ltrans10.ltrans.o
+ .debug_ranges  0x0000000000002c20       0xf0 /tmp/cc6Tpv7I.ltrans11.ltrans.o
+ .debug_ranges  0x0000000000002d10      0x1e0 /tmp/cc6Tpv7I.ltrans12.ltrans.o
+ .debug_ranges  0x0000000000002ef0      0x3f0 /tmp/cc6Tpv7I.ltrans13.ltrans.o
+ .debug_ranges  0x00000000000032e0      0x1a0 /tmp/cc6Tpv7I.ltrans14.ltrans.o
+ .debug_ranges  0x0000000000003480      0x100 /tmp/cc6Tpv7I.ltrans15.ltrans.o
+ .debug_ranges  0x0000000000003580       0x18 /tmp/cc6Tpv7I.ltrans16.ltrans.o
+
+.debug_line     0x0000000000000000     0x879b
+ .debug_line    0x0000000000000000     0x120f /tmp/cc6Tpv7I.ltrans0.ltrans.o
+ .debug_line    0x000000000000120f     0x118a /tmp/cc6Tpv7I.ltrans1.ltrans.o
+ .debug_line    0x0000000000002399      0x60e /tmp/cc6Tpv7I.ltrans2.ltrans.o
+ .debug_line    0x00000000000029a7      0x925 /tmp/cc6Tpv7I.ltrans3.ltrans.o
+ .debug_line    0x00000000000032cc      0x8b1 /tmp/cc6Tpv7I.ltrans4.ltrans.o
+ .debug_line    0x0000000000003b7d      0xa32 /tmp/cc6Tpv7I.ltrans5.ltrans.o
+ .debug_line    0x00000000000045af      0x6a3 /tmp/cc6Tpv7I.ltrans6.ltrans.o
+ .debug_line    0x0000000000004c52      0x5ab /tmp/cc6Tpv7I.ltrans7.ltrans.o
+ .debug_line    0x00000000000051fd      0x566 /tmp/cc6Tpv7I.ltrans8.ltrans.o
+ .debug_line    0x0000000000005763      0x8a5 /tmp/cc6Tpv7I.ltrans9.ltrans.o
+ .debug_line    0x0000000000006008      0x7e7 /tmp/cc6Tpv7I.ltrans10.ltrans.o
+ .debug_line    0x00000000000067ef      0x7b9 /tmp/cc6Tpv7I.ltrans11.ltrans.o
+ .debug_line    0x0000000000006fa8      0x59f /tmp/cc6Tpv7I.ltrans12.ltrans.o
+ .debug_line    0x0000000000007547      0x51a /tmp/cc6Tpv7I.ltrans13.ltrans.o
+ .debug_line    0x0000000000007a61      0x5af /tmp/cc6Tpv7I.ltrans14.ltrans.o
+ .debug_line    0x0000000000008010      0x481 /tmp/cc6Tpv7I.ltrans15.ltrans.o
+ .debug_line    0x0000000000008491      0x30a /tmp/cc6Tpv7I.ltrans16.ltrans.o
+
+.debug_str      0x0000000000000000     0xc223
+ .debug_str     0x0000000000000000     0x2529 /tmp/cc6Tpv7I.ltrans0.ltrans.o
+                                       0x269b (size before relaxing)
+ .debug_str     0x0000000000002529     0x201a /tmp/cc6Tpv7I.ltrans1.ltrans.o
+                                       0x2b77 (size before relaxing)
+ .debug_str     0x0000000000004543      0xacc /tmp/cc6Tpv7I.ltrans2.ltrans.o
+                                        0xf6d (size before relaxing)
+ .debug_str     0x000000000000500f      0x9e5 /tmp/cc6Tpv7I.ltrans3.ltrans.o
+                                       0x10b0 (size before relaxing)
+ .debug_str     0x00000000000059f4     0x10d7 /tmp/cc6Tpv7I.ltrans4.ltrans.o
+                                       0x2d5c (size before relaxing)
+ .debug_str     0x0000000000006acb      0x995 /tmp/cc6Tpv7I.ltrans5.ltrans.o
+                                       0x1e01 (size before relaxing)
+ .debug_str     0x0000000000007460      0xc6b /tmp/cc6Tpv7I.ltrans6.ltrans.o
+                                       0x1875 (size before relaxing)
+ .debug_str     0x00000000000080cb      0x576 /tmp/cc6Tpv7I.ltrans7.ltrans.o
+                                        0xd02 (size before relaxing)
+ .debug_str     0x0000000000008641      0x4bd /tmp/cc6Tpv7I.ltrans8.ltrans.o
+                                        0x9f1 (size before relaxing)
+ .debug_str     0x0000000000008afe      0xbbc /tmp/cc6Tpv7I.ltrans9.ltrans.o
+                                       0x20c1 (size before relaxing)
+ .debug_str     0x00000000000096ba      0x6a8 /tmp/cc6Tpv7I.ltrans10.ltrans.o
+                                       0x1040 (size before relaxing)
+ .debug_str     0x0000000000009d62     0x104d /tmp/cc6Tpv7I.ltrans11.ltrans.o
+                                       0x18f2 (size before relaxing)
+ .debug_str     0x000000000000adaf      0x61b /tmp/cc6Tpv7I.ltrans12.ltrans.o
+                                        0xf0a (size before relaxing)
+ .debug_str     0x000000000000b3ca      0x414 /tmp/cc6Tpv7I.ltrans13.ltrans.o
+                                        0xaf3 (size before relaxing)
+ .debug_str     0x000000000000b7de      0x677 /tmp/cc6Tpv7I.ltrans14.ltrans.o
+                                       0x121a (size before relaxing)
+ .debug_str     0x000000000000be55      0x1d1 /tmp/cc6Tpv7I.ltrans15.ltrans.o
+                                        0xe1a (size before relaxing)
+ .debug_str     0x000000000000c026      0x1fd /tmp/cc6Tpv7I.ltrans16.ltrans.o
+                                        0x606 (size before relaxing)
+
+.comment        0x0000000000000000       0x7f
+ .comment       0x0000000000000000       0x7f /tmp/cc6Tpv7I.ltrans0.ltrans.o
+                                         0x80 (size before relaxing)
+ .comment       0x000000000000007f       0x80 /tmp/cc6Tpv7I.ltrans1.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/cc6Tpv7I.ltrans2.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/cc6Tpv7I.ltrans3.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/cc6Tpv7I.ltrans4.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/cc6Tpv7I.ltrans5.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/cc6Tpv7I.ltrans6.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/cc6Tpv7I.ltrans7.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/cc6Tpv7I.ltrans8.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/cc6Tpv7I.ltrans9.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/cc6Tpv7I.ltrans10.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/cc6Tpv7I.ltrans11.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/cc6Tpv7I.ltrans12.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/cc6Tpv7I.ltrans13.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/cc6Tpv7I.ltrans14.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/cc6Tpv7I.ltrans15.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/cc6Tpv7I.ltrans16.ltrans.o
+
+.debug_frame    0x0000000000000000     0x1e70
+ .debug_frame   0x0000000000000000       0x38 /tmp/cc6Tpv7I.ltrans0.ltrans.o
+ .debug_frame   0x0000000000000038       0x44 /tmp/cc6Tpv7I.ltrans1.ltrans.o
+ .debug_frame   0x000000000000007c       0x44 /tmp/cc6Tpv7I.ltrans2.ltrans.o
+ .debug_frame   0x00000000000000c0      0x310 /tmp/cc6Tpv7I.ltrans3.ltrans.o
+ .debug_frame   0x00000000000003d0      0x1bc /tmp/cc6Tpv7I.ltrans4.ltrans.o
+ .debug_frame   0x000000000000058c      0x26c /tmp/cc6Tpv7I.ltrans5.ltrans.o
+ .debug_frame   0x00000000000007f8      0x174 /tmp/cc6Tpv7I.ltrans6.ltrans.o
+ .debug_frame   0x000000000000096c       0xfc /tmp/cc6Tpv7I.ltrans7.ltrans.o
+ .debug_frame   0x0000000000000a68      0x100 /tmp/cc6Tpv7I.ltrans8.ltrans.o
+ .debug_frame   0x0000000000000b68      0x28c /tmp/cc6Tpv7I.ltrans9.ltrans.o
+ .debug_frame   0x0000000000000df4       0xf0 /tmp/cc6Tpv7I.ltrans10.ltrans.o
+ .debug_frame   0x0000000000000ee4      0x2d0 /tmp/cc6Tpv7I.ltrans11.ltrans.o
+ .debug_frame   0x00000000000011b4      0x1a4 /tmp/cc6Tpv7I.ltrans12.ltrans.o
+ .debug_frame   0x0000000000001358       0xb4 /tmp/cc6Tpv7I.ltrans13.ltrans.o
+ .debug_frame   0x000000000000140c      0x1b4 /tmp/cc6Tpv7I.ltrans14.ltrans.o
+ .debug_frame   0x00000000000015c0       0x40 /tmp/cc6Tpv7I.ltrans15.ltrans.o
+ .debug_frame   0x0000000000001600       0x88 /tmp/cc6Tpv7I.ltrans16.ltrans.o
+ .debug_frame   0x0000000000001688       0x40 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_lrint.o)
+ .debug_frame   0x00000000000016c8       0x38 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_acos.o)
+ .debug_frame   0x0000000000001700       0x20 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_atan2.o)
+ .debug_frame   0x0000000000001720       0x3c /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_log.o)
+ .debug_frame   0x000000000000175c       0x3c /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-wf_sqrt.o)
+ .debug_frame   0x0000000000001798       0x30 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_acos.o)
+ .debug_frame   0x00000000000017c8       0x3c /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_atan2.o)
+ .debug_frame   0x0000000000001804       0x34 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_log.o)
+ .debug_frame   0x0000000000001838       0x30 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-ef_sqrt.o)
+ .debug_frame   0x0000000000001868       0x20 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_matherr.o)
+ .debug_frame   0x0000000000001888       0x20 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_nan.o)
+ .debug_frame   0x00000000000018a8       0x30 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_atan.o)
+ .debug_frame   0x00000000000018d8       0x20 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-sf_fabs.o)
+ .debug_frame   0x00000000000018f8       0x20 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-errno.o)
+ .debug_frame   0x0000000000001918       0x34 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+ .debug_frame   0x000000000000194c       0x50 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strchr.o)
+ .debug_frame   0x000000000000199c       0x20 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+ .debug_frame   0x00000000000019bc       0xac /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x0000000000001a68       0x50 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x0000000000001ab8       0xc4 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x0000000000001b7c       0x20 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_unorddf2.o)
+ .debug_frame   0x0000000000001b9c       0x24 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixunsdfsi.o)
+ .debug_frame   0x0000000000001bc0       0x24 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_truncdfsf2.o)
+ .debug_frame   0x0000000000001be4       0x4c /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x0000000000001c30       0x38 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_muldivsf3.o)
+ .debug_frame   0x0000000000001c68       0xc8 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_cmpsf2.o)
+ .debug_frame   0x0000000000001d30       0x24 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_unordsf2.o)
+ .debug_frame   0x0000000000001d54       0x24 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixsfsi.o)
+ .debug_frame   0x0000000000001d78       0x24 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixunssfsi.o)
+ .debug_frame   0x0000000000001d9c       0x44 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_aeabi_ldivmod.o)
+ .debug_frame   0x0000000000001de0       0x30 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_fixsfdi.o)
+ .debug_frame   0x0000000000001e10       0x2c /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_fixunssfdi.o)
+ .debug_frame   0x0000000000001e3c       0x34 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_udivmoddi4.o)
+
+.stabstr        0x0000000000000000       0x76
+ .stabstr       0x0000000000000000       0x76 /home/glitchinthematrix/cygnus/tools/toolchain/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(getpid.o)

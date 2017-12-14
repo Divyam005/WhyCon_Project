@@ -1,0 +1,19 @@
+			Flightstatusindicator	msb(..)		LED ke hisab se
+
+Ok to arm	1  						2			2
+Armed		4									1 / 4
+
+
+
+
+	Armed=0,              		flightIndicatorFlag&=1<<Armed
+	Ok_to_arm=1,
+	Not_ok_to_arm=2,
+	Signal_loss=3,	TODO
+    Crash=4,   TODO
+    LowBattery_inFlight=5, TODO
+    Low_battery=6	TODO
+	
+	
+	SMALL_ANGLE.
+	
