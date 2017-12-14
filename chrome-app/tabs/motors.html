@@ -1,0 +1,91 @@
+<div class="tab-motors">
+    <div class="content_wrapper">
+        <div class="tab_title" i18n="tabMotorTesting"><b>Motors</b></div>
+        <div class="cf_doc_version_bt">
+            <a id="button-documentation" href="https://github.com/cleanflight/cleanflight/releases" target="_blank"></a>
+        </div>
+        <div class="gui_box grey" style="margin-bottom: 15px;">
+            <div class="wrapper modelAndAccel">
+                <div class="mixerPreview">
+                    <img src="./resources/motor_order/custom.svg" />
+                   <div class="right">
+                       <div class="notice">
+                           <p i18n="motorsNotice"></p>
+                           
+                               <pre>
+ <input type="checkbox" id="motorsEnableTestMode" class="togglemedium" />TEST MOTORS        <input id="reset" type="button" value="RESET" />
+                                   </pre>
+                         </div>
+                       </div>
+                </div>
+                <div />
+        </div>
+        <div class="gui_box motorblock">
+            <div class="spacer">
+              <div class="left motors">
+                    <div class="title2"><b>Motors</b> (checkbox for Master Control)</div>
+                        <ul class="titles">
+                        <li title="Motor - 1">1</li>
+                        <li title="Motor - 2">2</li>
+                        <li title="Motor - 3">3</li>
+                        <li title="Motor - 4">4</li>
+                        <li title="Motor - 5">5</li>
+                        <li title="Motor - 6">6</li>
+                        <li title="Motor - 7">7</li>
+                        <li title="Motor - 8">8</li>
+                          
+                        <li style="font-weight: bold" title="Master">Master</li>
+                    </ul>
+                    <ul class="titles" id="category-list">
+                        <li title="Motor - 1"><input type="checkbox" class="m"></li>
+                        <li title="Motor - 2"><input type="checkbox" class="m"></li>
+                        <li title="Motor - 3"><input type="checkbox" class="m"></li>
+                        <li title="Motor - 4"><input type="checkbox" class="m"></li>
+                        <li title="Motor - 5"><input type="checkbox" class="m"></li>
+                        <li title="Motor - 6"><input type="checkbox" class="m"></li>
+                        <li title="Motor - 7"><input type="checkbox" class="m"></li>
+                        <li title="Motor - 8"><input type="checkbox" class="m"></li>
+                  
+                    </ul>
+      
+                    <div class="bar-wrapper"></div>
+                </div>
+                
+   
+            <div class="clear-both"></div>
+                <div class="motor_testing">
+                   <!-- <div class="left">-->
+                        <div class="sliders">
+                            <input id="n0" type="range" min="1000" max="2000" value="1000" disabled="disabled"/>
+                            <input id="n1" type="range" min="1000" max="2000" value="1000" disabled="disabled"/>
+                            <input id="n2" type="range" min="1000" max="2000" value="1000" disabled="disabled"/>
+                            <input id="n3" type="range" min="1000" max="2000" value="1000" disabled="disabled"/>
+                            <input id="n4" type="range" min="1000" max="2000" value="1000" disabled="disabled"/>
+                            <input id="n5" type="range" min="1000" max="2000" value="1000" disabled="disabled"/>
+                            <input id="n6" type="range" min="1000" max="2000" value="1000" disabled="disabled"/>
+                            <input id="n7" type="range" min="1000" max="2000" value="1000" disabled="disabled"/>
+                            <input type="range" min="1000" max="2000" value="1000" disabled="disabled" class="master"/>
+                        </div>
+           
+                        <br />
+                        <div class="tst">
+                        <input id="m0" type="number" min="1000" max="2000" value="1000" disabled="disabled"/>        
+                        <input id="m1" type="number" min="1000" max="2000" value="1000" disabled="disabled"/>        
+                        <input id="m2" type="number" min="1000" max="2000" value="1000" disabled="disabled"/>
+                        <input id="m3" type="number" min="1000" max="2000" value="1000" disabled="disabled"/>
+                        <input id="m4" type="number" min="1000" max="2000" value="1000" disabled="disabled"/>        
+                        <input id="m5" type="number" min="1000" max="2000" value="1000" disabled="disabled"/>        
+                        <input id="m6" type="number" min="1000" max="2000" value="1000" disabled="disabled"/>       
+                        <input id="m7" type="number" min="1000" max="2000" value="1000" disabled="disabled"/>    
+                        
+        <input type="number" min="1000" max="2000" value="1000" disabled="disabled" class="master"/>
+                        
+                        </div>
+            
+                  <div class="clear-both"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>

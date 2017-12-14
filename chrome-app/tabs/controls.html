@@ -1,0 +1,129 @@
+<div class="tab-controls">
+    <div class="content_wrapper initialstyle">
+        <!-- should be the first DIV on each tab -->
+        <div class="cf_column full spacerbottom">
+            <div class="tab_title" i18n="tabControls"></div>
+            <div class="cf_doc_version_bt">
+                <a id="button-documentation" href="https://github.com/cleanflight/cleanflight/releases" target="_blank"></a>
+            </div>
+        </div>
+      
+         <div class="modelwrapper"></div>
+        
+        <div class="cf_column threefourth_left">
+            <div class="spacer_right">
+                <div class="model-and-info">
+                    <div id="interactive_block">
+                        <div id="canvas_wrapper">
+                            <canvas id="canvas"></canvas>
+                            <div class="attitude_info">
+                                <dl>
+                                    <dt>Heading:</dt>
+                                    <dd class="heading">&nbsp;</dd>
+                                    <dt>Pitch:</dt>
+                                    <dd class="pitch">&nbsp;</dd>
+                                    <dt>Roll:</dt>
+                                    <dd class="roll">&nbsp;</dd>
+                                </dl>
+                            </div>
+                        </div>
+                        <a class="reset" href="#" i18n="initialControlsButtonResetZaxis"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+        <div class="cf_column fourth">
+           
+      
+        <div class="spacer_left" >
+            <div class="gui_box grey" align="left">
+                <div class="gui_box_titlebar" align="left">
+                 <p id="ControlsStatus" ><b>( Active )</b></p>        
+                      <div class="spacer_box_title" i18n="controlsEnableHead">  </div>
+                        
+                </div>
+                <div class="spacer_box" id="activeControls">
+     
+                    <div class="insert">
+                        <label> <input type="number" name="roll" min="-20" max="20" value="0"/> <span
+                            i18n="controlsRoll"></span>
+                        </label>
+                    </div>
+                    <div class="insert">
+                        <label> <input type="number" name="pitch" min="-20" max="20" value="0"/> <span
+                            i18n="controlsPitch"></span>
+                        </label>
+                    </div>
+                     <div class="insert">
+                        <label> <input type="number" name="throttle" min="0" max="100" value="50"/> <span
+                            i18n="controlsThrottle"></span>
+                        </label>
+                    </div>
+                    <div class="insert">
+                        <label> <input type="number" name="yaw" min="-100" max="100" value="0"/> <span
+                            i18n="controlsYaw"></span>
+                        </label>
+                    </div>
+                    <div class="insert">
+                        <label> <input type="button" id="aux1" value="AUX-1"/> <span
+                            i18n="controlsAux1"></span>
+                        </label>
+                    </div>
+                    <div class="insert">
+                        <label> <input type="button" id="aux2" value="AUX-2"/> <span
+                            i18n="controlsAux2"></span>
+                        </label>
+                    </div>
+                     <div class="insert">
+                        <label> <input type="button" id="aux3" value="AUX-3"/> <span
+                            i18n="controlsAux3"></span>
+                        </label>
+                    </div>
+                    <div class="insert">
+                        <label> <input type="button" id="arm" class="arm" value="DISARMED"/> <span
+                            i18n="controlsAux4"></span>
+                        </label>
+                    </div>
+                     <h3><code id="statusField">NO-STATUS</code></h3>
+                <div id="listener"></div>
+                        
+            </div>
+        </div>
+        
+              
+        </div>
+         <div class="spacer_left">
+                <div class="gui_box grey">
+                    <div class="gui_box_titlebar">
+                        <div class="spacer_box_title" i18n="initialSetupInfoHead"></div>
+                    </div>
+                    <div class="spacer_box">
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0" class="cf_table">
+                            <tbody>
+                            <tr>
+                                <td i18n="initialSetupBattery"></td>
+                                <td class="bat-voltage">0 V</td>
+                            </tr>
+                            <tr class="noboarder">
+                              <td i18n="initialSetupDrawn"></td>
+                              <td class="bat-mah-drawn">0 mAh</td>
+                              </tr>
+                            </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+      </div>
+  <!--    <div class="modelwrapper"></div>
+      --> 
+        <div class="clear-both"></div>
+      <div class="gamepad" id="activeGP">
+      <p id="GPStatus" ><b>( Active )</b></p>
+            <p i18n="gamepadNotice"></p>
+       
+<pre><input id="enableGamepad" class="togglemedium" type="checkbox" />ENABLE GAMEPAD   <h4 id="armField" value="GAMEPAD DISARMED">Gamepad Status</h4></pre>
+      </div>     
+  </div>
+</div>

@@ -1,0 +1,12 @@
+{
+  "program": {
+    "portable": {
+      "pnacl-translate": {
+        "url": "chrome-app.pexe"
+      },
+      "pnacl-debug": {
+        "url": "chrome-app_unstripped.bc"
+      }
+    }
+  }
+}
